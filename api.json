@@ -1,37 +1,35 @@
 {
   "latest_games": [
     {
-      "update_date" : "January 15, 2024",
-      "title": "Sovereign Syndicate: Digital Deluxe Edition v1.0.19 + Bonus Content",
-      "released_date": "January 15, 2024",
-      "genres": "RPG, Open world, Isometric, 3D",
+      "update_date" : "5 nov. 2019",
+      "title": "Call of Duty®: Black Ops Cold War",
+      "released_date": "8 Mar, 2023",
+      "genres": "Action",
       "platforms": "PC",
-      "developer": "Crimson Herring Studios",
-      "rating": "100% of user reviews are positive (based on 25 reviews)",
-      "user_language": "English",
-      "audio_language": "none",
-      "image":"https://telegra.ph/file/04b067f3f6b01fc8d1d54.jpg",
+      "developer": "Treyarch, Raven Software, High Moon Studios, Beenox, Activision Shanghai, Sledgehammer Games",
+      "rating": "none",
+      "user_language": "Russian, English, MULTi13",
+      "audio_language": " English",
+      "image":"https://cdn.mobygames.com/covers/10825165-call-of-duty-black-ops-cold-war-xbox-one-front-cover.jpg",
       "minimum_requirements":{
-        "os": "Windows 7 x64",
-        "processor" : "Intel Core i3 or equivalent",
+        "os": "Windows® 10 64-bit (v.1803 or higher)",
+        "processor" : "Intel® Core™ i3-4340 or AMD FX-6300*",
         "ram": "8 GB",
-        "video_card":"Direct X Compatible Video Card with 2GB",
-        "direX": "11",
-        "hdd_space":"10.7 GB"
+        "video_card":"NVIDIA® GeForce® GTX 670 / NVIDIA® GeForce® GTX 1650 or AMD ",
+        "direX": "12",
+        "hdd_space":"175 GB"
 
       },
       "screenshots":[
-        "https://s01.riotpixels.net/data/07/ad/07ad084d-8fbd-4f58-8c85-35ec195ad57b.jpg.240p.jpg",
-        "http://s01.riotpixels.net/data/1f/c2/1fc2e47f-9471-4ad8-ad3b-9c9dbd05fb42.jpg.240p.jpg",
-        "http://s01.riotpixels.net/data/6c/bc/6cbc2192-ec18-4eee-9ddc-a049e3897088.jpg.240p.jpg",
-        "http://s01.riotpixels.net/data/6c/bc/6cbc2192-ec18-4eee-9ddc-a049e3897088.jpg.240p.jpg",
-        "http://s01.riotpixels.net/data/65/c5/65c52dee-9591-40ed-8b7d-fafb7791d2df.jpg.240p.jpg",
-        "http://s01.riotpixels.net/data/5f/de/5fdeabde-47b0-4026-a3ba-056e839b3571.jpg.240p.jpg",
-        "http://s01.riotpixels.net/data/ab/9c/ab9c6e48-962e-417b-8a5d-ea0249e9522e.jpg.240p.jpg"
+        "https://cdn.mobygames.com/screenshots/6581942-call-of-duty-black-ops-cold-war-playstation-5-shootout-on-the-ro.jpg",
+        "https://cdn.mobygames.com/screenshots/12547487-call-of-duty-black-ops-cold-war-playstation-5-welcome-to-vietnam.jpg",
+        "https://cdn.mobygames.com/screenshots/12548986-call-of-duty-black-ops-cold-war-playstation-5-an-embarrassing-mo.jpg",
+        "https://cdn.mobygames.com/screenshots/6714931-call-of-duty-black-ops-cold-war-playstation-5-air-support-to-the.jpg"
       ],
-      "description":"Explore an open world in this Victorian steampunk cRPG. Play as three characters with branching stories that intertwine. Investigate, interact, and take action to leave your mark on the world and its inhabitants. No random stat points here, use your skills to level them up, and trust your fate to our tarot card chance system."
+      "description":"Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s."
 
     },
+    
     {
       "update_date" : "January 15, 2024",
       "title": "GUILTY GEAR -STRIVE-: Daredevil Edition v1.34",
@@ -200,35 +198,7 @@
       "description":"From the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is the epitome of life and survival in the heart of wild America. An incredibly spacious and carefully designed game world will also form the basis for a completely new online mode.America, 1899. The era of the Wild West is coming to an end. The servants of the law methodically hunt the remnants of the gangs. Those who do not want to surrender are killed. After the failed bank robbery, Arthur Morgan and other henchmen of Dutch van der Linde are forced to go on the run.Their gang will take part in thefts, robberies and shootings in the heart of America, on an inhospitable land, where every day is a struggle for survival. Federal agents and the best bounty hunters in the country are on their heels, and the gang itself is torn apart by internal divisions. Arthur will have to choose what is more important to him: his own ideals or loyalty to the people who raised him."
 
     },
-    {
-      "update_date" : "5 nov. 2019",
-      "title": "Call of Duty®: Black Ops Cold War",
-      "released_date": "8 Mar, 2023",
-      "genres": "Action",
-      "platforms": "PC",
-      "developer": "Treyarch, Raven Software, High Moon Studios, Beenox, Activision Shanghai, Sledgehammer Games",
-      "rating": "none",
-      "user_language": "Russian, English, MULTi13",
-      "audio_language": " English",
-      "image":"https://cdn.mobygames.com/covers/10825165-call-of-duty-black-ops-cold-war-xbox-one-front-cover.jpg",
-      "minimum_requirements":{
-        "os": "Windows® 10 64-bit (v.1803 or higher)",
-        "processor" : "Intel® Core™ i3-4340 or AMD FX-6300*",
-        "ram": "8 GB",
-        "video_card":"NVIDIA® GeForce® GTX 670 / NVIDIA® GeForce® GTX 1650 or AMD ",
-        "direX": "12",
-        "hdd_space":"175 GB"
-
-      },
-      "screenshots":[
-        "https://cdn.mobygames.com/screenshots/6581942-call-of-duty-black-ops-cold-war-playstation-5-shootout-on-the-ro.jpg",
-        "https://cdn.mobygames.com/screenshots/12547487-call-of-duty-black-ops-cold-war-playstation-5-welcome-to-vietnam.jpg",
-        "https://cdn.mobygames.com/screenshots/12548986-call-of-duty-black-ops-cold-war-playstation-5-an-embarrassing-mo.jpg",
-        "https://cdn.mobygames.com/screenshots/6714931-call-of-duty-black-ops-cold-war-playstation-5-air-support-to-the.jpg"
-      ],
-      "description":"Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s."
-
-    },
+    
     {
       "update_date" : "5 nov. 2019",
       "title": "Dragon Age: Origins – Ultimate Edition GOG Version",
