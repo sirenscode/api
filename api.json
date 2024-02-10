@@ -1,35 +1,1069 @@
 {
   "latest_games": [
     {
-      "update_date" : "5 nov. 2019",
-      "title": "Call of Duty®: Black Ops Cold War",
-      "released_date": "8 Mar, 2023",
-      "genres": "Action",
+      "update_date" : "November 28, 2023",
+      "title": "TEKKEN 8",
+      "released_date": "January 26, 2024",
+      "genres": "Arcade, Fighting, Side, 3D, Japanese",
       "platforms": "PC",
-      "developer": "Treyarch, Raven Software, High Moon Studios, Beenox, Activision Shanghai, Sledgehammer Games",
-      "rating": "none",
-      "user_language": "Russian, English, MULTi13",
-      "audio_language": " English",
-      "image":"https://cdn.mobygames.com/covers/10825165-call-of-duty-black-ops-cold-war-xbox-one-front-cover.jpg",
+      "developer": " Bandai Namco Studios, Arika",
+      "rating": "83%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese, Polish, Russian, Thai, Spanish - Latin America",
+      "audio_language": "English + Native Char Languages",
+      "image":"https://media.licdn.com/dms/image/D4D12AQGKDKJfdMuqHw/article-cover_image-shrink_720_1280/0/1700034692458?e=2147483647&v=beta&t=P42PGA8IQa1QJ6j8GCrj9Ds4UkXNUdamIdSSI7vzIM8",
       "minimum_requirements":{
-        "os": "Windows® 10 64-bit (v.1803 or higher)",
-        "processor" : "Intel® Core™ i3-4340 or AMD FX-6300*",
+        "os": "Windows 10 64-bit",
+        "processor" : "Intel Core i5-6600K/AMD Ryzen 5 1600",
         "ram": "8 GB",
-        "video_card":"NVIDIA® GeForce® GTX 670 / NVIDIA® GeForce® GTX 1650 or AMD ",
+        "video_card":"Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X",
         "direX": "12",
-        "hdd_space":"175 GB"
+        "hdd_space":"87.4 GB"
 
       },
       "screenshots":[
-        "https://cdn.mobygames.com/screenshots/6581942-call-of-duty-black-ops-cold-war-playstation-5-shootout-on-the-ro.jpg",
-        "https://cdn.mobygames.com/screenshots/12547487-call-of-duty-black-ops-cold-war-playstation-5-welcome-to-vietnam.jpg",
-        "https://cdn.mobygames.com/screenshots/12548986-call-of-duty-black-ops-cold-war-playstation-5-an-embarrassing-mo.jpg",
-        "https://cdn.mobygames.com/screenshots/6714931-call-of-duty-black-ops-cold-war-playstation-5-air-support-to-the.jpg"
+        "http://s01.riotpixels.net/data/66/97/6697ecf1-a8d2-473f-a4bd-1d2c3835a551.jpg.240p.jpg","http://s01.riotpixels.net/data/88/03/8803d6bf-805c-4466-81ae-fc1a26111540.jpg.240p.jpg","http://s01.riotpixels.net/data/b8/e9/b8e95c48-81a1-4656-ab9b-3a94f0028631.jpg.240p.jpg","http://s01.riotpixels.net/data/ed/ce/edce3610-e59e-43b7-98dd-253fcd426313.jpg.240p.jpg","http://s01.riotpixels.net/data/e6/2f/e62fc6bd-cce3-4357-b998-b69f88a8a35a.jpg.240p.jpg","http://s01.riotpixels.net/data/0e/7d/0e7dfcaf-2e82-408d-adb2-2afe256982ec.jpg.240p.jpg"
       ],
-      "description":"Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s."
+      "description":"32 FIGHTERS FOR A NEW GENERATION Completely redesigned character visuals. Elaborate, highly-detailed models built from the ground and high-fidelity graphics break the limits of new-generation hardware by adding a new weight and atmosphere to TEKKEN’s signature battles. Vivid environments and destructible stages combine to create an overwhelming sense of immersion, creating the ultimate play experience."
 
     },
     
+    
+    
+    
+    {
+      "title": "Call of Duty: Warzone",
+      "releaseYear": 2020,
+      "platforms": ["PlayStation", "Xbox", "PC"],
+      "modes": ["Battle Royale", "Plunder"],
+      "rating": 4.6,
+      "description": "Call of Duty: Warzone is a free-to-play battle royale game...",
+      "screenshots": [
+        "screenshots/warzone_1.jpg",
+        "screenshots/warzone_2.jpg",
+        "screenshots/warzone_3.jpg"
+      ]
+    }
+  ],
+  "games":[
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Empyrion: Galactic Survival",
+      "released_date": "August 5, 2020",
+      "genres": "Action, Shooter, Managerial, Open world, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Eleon Game Studios",
+      "rating": "80%",
+      "user_language": "English, German, French, Russian, Italian, Portuguese - Brazil, Simplified Chinese, Greek",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/10994303-empyrion-galactic-survival-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows (7, 8 and 10), 64-bit system required",
+        "processor" : "Dual-Core Processor 2.5 GHz or better", 
+        "ram": "10 GB",
+        "video_card":"AMD RX 550 / NVIDIA GTX 1050 (min. 2 GB VRAM)",
+        "direX": "11",
+        "hdd_space":"17.3 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/c5/38/c538b034-ee91-4aa0-a393-7c70d3e56de2.jpg.240p.jpg","http://s01.riotpixels.net/data/8b/07/8b076ee7-0b16-4e4e-9860-20230b69e5b7.jpg.240p.jpg","http://s01.riotpixels.net/data/55/11/5511bbe1-c50b-4448-bd7e-f8c2c3ee7867.jpg.240p.jpg","http://s01.riotpixels.net/data/d3/b5/d3b52246-e6ce-4058-9158-a5cfb15be771.jpg.240p.jpg","http://s01.riotpixels.net/data/48/cb/48cbbc1f-9f46-4846-b3c3-bf451d967f79.jpg.240p.jpg","http://s01.riotpixels.net/data/e1/7d/e17de40c-3751-4a05-ae33-0bdaec1273d1.jpg.240p.jpg"
+      ],
+       "description":"Empyrion: Galactic Survival is a 3D open world space sandbox survival adventure. Build powerful ships, mighty space stations and vast planetary settlements to explore, conquer or exploit a variety of different planets and discover the mysteries of Empyrion! Fight human, alien and biological hazards and survive in a hostile galaxy full of hidden dangers. Play as a lone wolf or team-up with your friends, build new friendships, create alliances or make war to conquer the solar system."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Way of the Hunter",
+      "released_date": "August 16, 2022",
+      "genres": "Sports, Hunting, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Nine Rocks Games",
+      "rating": "79%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Arabic, Traditional Chinese, Simplified Chinese, Polish, Russian, Czech, Turkish, Japanese, Hindi, Indonesian, Slovak",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/11020075-way-of-the-hunter-playstation-5-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "AMD Ryzen 3 3100 / Intel Core i3-8100",
+        "ram": "8 GB",
+        "video_card":" GeForce GTX 960 / Radeon R9 380",
+        "direX": "11",
+        "hdd_space":"20.1 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b9/38/b938f3aa-d569-4490-a780-3db647f924d8.jpg.240p.jpg","http://s01.riotpixels.net/data/b8/ee/b8eed891-d7fa-4015-8b52-51daea7ab240.jpg.240p.jpg","http://s01.riotpixels.net/data/7e/e5/7ee59711-584b-44c8-90c6-8d7f302c534d.jpg.240p.jpg","http://s01.riotpixels.net/data/f2/58/f2581dce-0375-4c69-92a3-160459615c2d.jpg.240p.jpg","http://s01.riotpixels.net/data/20/07/20076fe1-9bb1-411c-8246-a976eb878d61.jpg.240p.jpg","http://s01.riotpixels.net/data/34/eb/34eb345c-e630-4b5a-ac85-dd69a0757787.jpg.240p.jpg"
+      ],
+       "description":"This authentic hunting experience lets you explore and hunt in large open-world environments in the USA and Europe . Discover true to life animals in beautiful natural habitats and handle various detailed and highly realistic weapons. Way of the Hunter provides a highly immersive, completely integrated experience amongst stunning wildlife with true to live animal group behavior. Witness the changing of complex ecosystems that react and adapt to your input. Learn what it means to be a true hunter and put your skills to the test."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Tales of Arise",
+      "released_date": "1 Nov, 2023",
+      "genres": "Adventure",
+      "platforms": "PC",
+      "developer": "Tequila Works",
+      "rating": "none",
+      "user_language": " English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Spanish - Latin America, Traditional Chinese, Korean",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17799815-song-of-nunu-a-league-of-legends-story-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i5-2300 / AMD FX-6300",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 960 / AMD Radeon R9 380X / Intel Arc A380",
+        "direX": "12",
+        "hdd_space":"24 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/40/6c/406cdd7b-e278-42b8-8aa6-bc1ee3c25dc8.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.23.jpg","http://s01.riotpixels.net/data/21/29/21290d7a-a29e-4dc2-a452-fd4d086d23e4.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.22.jpg","http://s01.riotpixels.net/data/27/4e/274e1916-24d6-4ee3-a9c3-b3a08cc05b43.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.21.jpg","http://s01.riotpixels.net/data/a5/cc/a5cc070a-281f-4119-8216-73dfe2714055.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.20.jpg","http://s01.riotpixels.net/data/44/6b/446bddc9-466a-4414-8865-ddb94faa2118.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.19.jpg","http://s01.riotpixels.net/data/73/99/7399f2b4-4198-4844-bb2e-5b6836fc235d.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.18.jpg","http://s01.riotpixels.net/data/bb/47/bb471205-4432-48e2-9d32-fc318dbec0bc.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.17.jpg","http://s01.riotpixels.net/data/03/ce/03ce437a-c03d-413a-bad9-a0eacb73cce7.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.16.jpg","http://s01.riotpixels.net/data/23/ad/23ade1cb-efc6-4e6e-ac44-c907e19a4fe9.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.15.jpg","http://s01.riotpixels.net/data/68/83/68835a0b-c904-4387-bccd-512527f1b96f.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2023-11-03.14.jpg","http://s01.riotpixels.net/data/c6/27/c6272f0d-fa8d-43f8-a591-5ae27be41a6f.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2021-11-17.13.jpg","http://s01.riotpixels.net/data/e8/d9/e8d903cb-0c15-4a5f-ae58-b73a8205f3f4.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2021-11-17.12.jpg","http://s01.riotpixels.net/data/1c/70/1c706ab9-8fed-465e-9f45-9924ac9768e7.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2021-11-17.11.jpg","http://s01.riotpixels.net/data/73/a0/73a0a32d-ff10-421c-888a-65c26df929c4.jpg.720p.jpg/screenshot.song-of-nunu-a-league-of-legends-story.1280x720.2021-11-17.10.jpg"
+      ],
+       "description":"Two best friends, one wild adventure. Join best friends Nunu and Willump on an adventure across the frozen wilds of the Freljord. Song of Nunu: A League of Legends Story is a single-player story adventure developed by Tequila Works"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Tales of Arise",
+      "released_date": " 10 Sep, 2021",
+      "genres": "Action, RPG",
+      "platforms": "PC",
+      "developer": "Bandai Namco Studios Inc.",
+      "rating": "none",
+      "user_language": " English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Spanish - Latin America, Traditional Chinese, Korean",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/10469189-tales-of-arise-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i5-2300 or AMD Ryzen 3 1200",
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 760 or Radeon HD 7950",
+        "direX": "11",
+        "hdd_space":"50 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/af/1b/af1b654a-6116-4ede-85a7-ce570c9d1338.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.153.jpg","http://s01.riotpixels.net/data/91/99/91997ff8-ec75-47dd-96bd-b055d7824834.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.150.jpg","http://s01.riotpixels.net/data/d5/66/d5669667-b005-4d39-91be-f96ee78cb304.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.149.jpg","http://s01.riotpixels.net/data/a3/12/a3127c69-0e0c-4f6e-9de8-6765df126234.jpg.720p.jpg/screenshot.tales-of-arise.1280x720.2022-05-08.148.jpg","http://s01.riotpixels.net/data/32/a7/32a7bf0d-e2a4-460a-bbd0-2eca0387aa0d.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.147.jpg","http://s01.riotpixels.net/data/55/73/5573826a-e216-417a-b07f-498a53ec6ef0.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.146.jpg","http://s01.riotpixels.net/data/ff/f4/fff4a08c-975c-4b10-91d7-fc4e3fd399fe.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.145.jpg","http://s01.riotpixels.net/data/67/cb/67cb2f78-65db-4d2f-b233-dc7df2e0a4da.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.144.jpg","http://s01.riotpixels.net/data/67/43/67439772-9abb-4166-8a51-17de2b4f020a.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.143.jpg","http://s01.riotpixels.net/data/92/f2/92f293e1-4bd6-4dce-9420-45b1d18c773b.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.142.jpg","http://s01.riotpixels.net/data/d8/d3/d8d3afa9-f98e-4439-bdd2-1c983be9c10e.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.141.jpg","http://s01.riotpixels.net/data/9a/83/9a833407-184c-40af-847d-55b3e9957505.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.139.jpg","http://s01.riotpixels.net/data/c8/67/c8673550-5f3f-41e7-8f3f-4331ac4e7427.jpg/screenshot.tales-of-arise.1920x1080.2022-05-08.138.jpg"
+      ],
+       "description":"300 years of tyranny. A mysterious mask. Lost pain and memories. Wield the Blazing Sword and join a mysterious, untouchable girl to fight your oppressors. Experience a tale of liberation, featuring characters with next-gen graphical expressiveness!"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Naruto X Boruto: Ultimate Ninja - Storm Connections",
+      "released_date": "November 17, 2023",
+      "genres": "Arcade, Jump and run, Side, 2D, Retro look",
+      "platforms": "PC",
+      "developer": " Kumi Souls Games",
+      "rating": "82%",
+      "user_language": " English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Spanish - Latin America, Traditional Chinese, Korean",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17932699-naruto-x-boruto-ultimate-ninja-storm-connections-windows-front-c.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i7-8700 / AMD Ryzen 7 2700X",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 660 Ti / Radeon R9 270X / Intel Arc A380",
+        "direX": "11",
+        "hdd_space":"30 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/48/d1/48d1417c-33c6-4286-b560-13471edc9fd8.jpg.720p.jpg/screenshot.naruto-x-boruto-ultimate-ninja-storm-connections.1280x720.2023-11-17.6.jpg","http://s01.riotpixels.net/data/55/90/55909793-3a70-4246-a9bb-c84d7c16628a.jpg.720p.jpg/screenshot.naruto-x-boruto-ultimate-ninja-storm-connections.1280x720.2023-11-17.5.jpg","http://s01.riotpixels.net/data/70/55/7055b82e-ba85-48df-b0e5-74964e726e64.jpg.720p.jpg/screenshot.naruto-x-boruto-ultimate-ninja-storm-connections.1280x720.2023-11-17.4.jpg","http://s01.riotpixels.net/data/1d/41/1d41f8fe-99bb-48e0-ac27-6dfc66378036.jpg.720p.jpg/screenshot.naruto-x-boruto-ultimate-ninja-storm-connections.1280x720.2023-11-17.3.jpg","http://s01.riotpixels.net/data/1d/97/1d97bd2b-1cc1-45fa-9d93-4119e732e3d9.jpg.720p.jpg/screenshot.naruto-x-boruto-ultimate-ninja-storm-connections.1280x720.2023-11-17.2.jpg","http://s01.riotpixels.net/data/cf/39/cf39e6e5-65bc-4f42-b550-30da33baef1c.jpg.720p.jpg/screenshot.naruto-x-boruto-ultimate-ninja-storm-connections.1280x720.2023-11-17.1.jpg"
+      ],
+       "description":"Legendary ninjas reunite in the next exciting entry of the STORM series! NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS is an action/fighting game with fast-paced ninja battles and two different story modes."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Last Faith",
+      "released_date": "November 15, 2023",
+      "genres": "Arcade, Jump and run, Side, 2D, Retro look",
+      "platforms": "PC",
+      "developer": " Kumi Souls Games",
+      "rating": "82%",
+      "user_language": " English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Spanish - Latin America, Traditional Chinese, Korean",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17853509-the-last-faith-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core 2 Duo E7500 2.93 GHz | AMD Athlon 64 X2 Dual Core Processor 5600+ 2.9GHz",
+        "ram": "2 GB",
+        "video_card":"GeForce 9600 GT | AMD Radeon HD 6450",
+        "direX": "11",
+        "hdd_space":"2.2 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/12/01/1201e7a6-7861-443f-932c-718949e475d6.jpg.240p.jpg","http://s01.riotpixels.net/data/4b/76/4b76e939-6882-4632-8a4a-89f468a18c72.jpg.240p.jpg","http://s01.riotpixels.net/data/52/3b/523be3f0-22ad-403d-a5f0-977e9ef93660.jpg.240p.jpg","http://s01.riotpixels.net/data/ac/c1/acc1cc45-96fb-4152-b924-e1fb5fda8237.jpg.240p.jpg","http://s01.riotpixels.net/data/9e/ae/9eae9713-5a79-4cf6-ad91-83c28a8cc8fb.jpg.240p.jpg","http://s01.riotpixels.net/data/fa/fb/fafb084e-fe56-4bb3-945e-e94462be1e7b.jpg.240p.jpg"
+      ],
+       "description":"The wicked and the blessed will be judged the same - let nothing stand in your way. Often brutal, always empowering, The Last Faith is an unholy alliance of metroidvania and soulslike.The Last Faith thrives on merciless and precise combat, with a huge range of custom executions to perform.Discover a formidable arsenal of melee weapons, arcane spells, and long-range firearms, allowing you to carve a path your own way. Nonlinear exploration is at the core of The Last Faith. Gorgeous pixel art depicts an imposing gothic landscape. Journey along snow-dusted mountains and castles bathed in moonlight. Discover and upgrade a formidable range of tools for destruction."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Days Gone",
+      "released_date": "May 18, 2021",
+      "genres": "Action, Adventure, Shooter, Open world, Stealth, Third-person, 3D, Horror, Post-apocalypse",
+      "platforms": "PC",
+      "developer": " Bend Studio",
+      "rating": "92%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Korean, Portuguese, Portuguese - Brazil, Arabic, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Norwegian, Polish, Russian, Spanish - Latin America, Swedish, Traditional Chinese, Turkish, Croatian",
+      "audio_language": " English, French, Italian, German, Spanish - Spain, Portuguese, Portuguese - Brazil, Arabic, Polish, Russian, Spanish - Latin America",
+      "image":"https://cdn.mobygames.com/covers/7425143-days-gone-playstation-4-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz ",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4 GB)",
+        "direX": "11",
+        "hdd_space":"60.1 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/aa/1e/aa1e54c1-21f9-4ed6-b4c4-dea8938bafb8.jpg.240p.jpg","http://s01.riotpixels.net/data/b1/c6/b1c66b8c-f1c6-4616-975a-781f46efa484.jpg.240p.jpg","http://s01.riotpixels.net/data/49/42/4942f9c9-576d-4dcc-934b-89ba9785e8ae.jpg.240p.jpg","http://s01.riotpixels.net/data/93/9b/939be215-b881-46f7-a649-2f09b10489dc.jpg.240p.jpg","http://s01.riotpixels.net/data/07/d5/07d55f09-fabb-4494-90ba-4f1da5c6ba6d.jpg.240p.jpg","http://s01.riotpixels.net/data/7a/94/7a948d26-7bc9-430a-b66f-48bfc4f2b3f7.jpg.240p.jpg"
+      ],
+      "description":"Days Gone is an open-world action-adventure game set in a harsh wilderness two years after a devastating global pandemic. Step into the dirt flecked shoes of former outlaw biker Deacon St. John, a bounty hunter trying to find a reason to live in a land surrounded by death. Scavenge through abandoned settlements for equipment to craft valuable items and weapons, or take your chances with other survivors trying to eke out a living through fair trade… or more violent means."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Invincible",
+      "released_date": "November 6, 2023",
+      "genres": "Adventure, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Starward Industries",
+      "rating": "92%",
+      "user_language": "English, French, German, Spanish - Spain, Polish, Simplified Chinese, Russian, Portuguese - Brazil, Ukrainian",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17857144-the-invincible-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "AMD Ryzen 5 3600 (6 core with 3,5 Ghz) or Intel i5-10400F (6 core with 2,9 Ghz)",
+        "ram": "8 GB",
+        "video_card":"Radeon 6500XT (4GB) or Nvidia GTX 1660 (4GB)/1060 (6GB)",
+        "direX": "11",
+        "hdd_space":"39.1 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d4/e5/d4e5c334-b7a2-45a0-9a2a-e1777da755cd.jpg.240p.jpg","http://s01.riotpixels.net/data/62/fa/62fa4f1b-1652-470e-9b38-d5b621cbf623.jpg.240p.jpg","http://s01.riotpixels.net/data/e2/cb/e2cb77d3-0930-41c7-b125-2bab8d20334e.jpg.240p.jpg","http://s01.riotpixels.net/data/4d/b0/4db0bf73-c31c-4e76-9259-c86d1ad53c80.jpg.240p.jpg","http://s01.riotpixels.net/data/f4/46/f44600e2-5479-41ab-a2d6-98346d2f05d9.jpg.240p.jpg","http://s01.riotpixels.net/data/d2/23/d223e59d-3ba3-4cbc-bf1c-3d7b367b73b3.jpg.240p.jpg"
+      ],
+      "description":"You are a highly qualified, sharp-witted astrobiologist named Yasna. Being entangled in a space race, you and your crew end up on the unexplored planet Regis III. The scientific journey quickly turns into a search mission for lost crewmates. Follow its trail, but be fully aware that every decision you make can bring you closer to danger."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Tintin Reporter: Cigars of the Pharaoh",
+      "released_date": "November 7, 2023",
+      "genres": "Adventure, QTE, 3D",
+      "platforms": "PC",
+      "developer": "Péndulo Studios",
+      "rating": "64%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Dutch, Polish, Russian, Czech, Portuguese - Brazil",
+      "audio_language": "English, French, German, Spanish - Spain",
+      "image":"https://cdn.mobygames.com/covers/17825570-tintin-reporter-cigars-of-the-pharaoh-xbox-series-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "CPU Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz / AMD Ryzen 5 4600H",
+        "ram": "8 GB",
+        "video_card":"GPU NVIDIA GeForce GTX 1060 / AMD Radeon RX 5600",
+        "direX": "11",
+        "hdd_space":"34.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/28/18/2818a6cc-afc5-4eb3-9138-54bd3eb06539.jpg.240p.jpg","http://s01.riotpixels.net/data/76/6c/766c027b-da80-460b-b39a-872380591beb.jpg.240p.jpg","http://s01.riotpixels.net/data/18/34/1834a97f-8f4d-4309-91ea-f548bece351d.jpg.240p.jpg","http://s01.riotpixels.net/data/6e/3f/6e3fb59b-e5f3-46ea-8f13-5bab6b8ea094.jpg.240p.jpg","http://s01.riotpixels.net/data/c6/94/c694f172-0548-4a85-8238-a7f4cbe44ea6.jpg.240p.jpg","http://s01.riotpixels.net/data/2b/30/2b30bec1-d8c0-43da-b8ce-b4671f4a2e7a.jpg.240p.jpg"
+      ],
+      "description":"WTintin and his faithful companion Snowy are going to experience some extraordinary adventures…After meeting Professor Sarcophagus whilst cruising the Mediterranean Sea, the famous reporter sets out in search of the tomb of the Pharaoh Kih-Oskh."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Generation Zero: Ultimate Bundle",
+      "released_date": "March 26, 2019",
+      "genres": "Action, Shooter, Open world, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Avalanche Studios",
+      "rating": "74%",
+      "user_language": "English, French, German, Spanish - Spain, Russian, Simplified Chinese, Japanese, Polish, Swedish",
+      "audio_language": " English, Swedish",
+      "image":"https://cdn.mobygames.com/covers/7395131-generation-zero-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "64bit OS - Windows 7 with Service Pack 1",
+        "processor" : " Intel i5 Quad Core",
+        "ram": "8 GB",
+        "video_card":"nVidia GTX 660 / ATI HD7870 - 2GB VRAM / Intel® Iris™ Pro Graphics 580",
+        "direX": "11",
+        "hdd_space":"66.2 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/df/74/df742c7b-5fdc-4892-9e54-a9e5967d56d3.jpg.240p.jpg","http://s01.riotpixels.net/data/64/21/64212a4d-c096-4cc5-9385-2df664b8b059.jpg.240p.jpg","http://s01.riotpixels.net/data/3f/7d/3f7d67ed-e2ba-4e2f-8c49-1357f25b4804.jpg.240p.jpg","http://s01.riotpixels.net/data/3f/7d/3f7d67ed-e2ba-4e2f-8c49-1357f25b4804.jpg.240p.jpg","http://s01.riotpixels.net/data/6d/12/6d126302-ef04-48fd-9e16-444e9e0e6775.jpg.240p.jpg","http://s01.riotpixels.net/data/5f/33/5f3331ec-ec44-4c05-9607-df6236dd62a5.jpg.240p.jpg"
+      ],
+      "description":"Welcome to 1980’s Sweden. The local population has gone missing, and machines of unknown origin roam the streets. Explore this vast open world to unravel the mystery of the invaders, perfect your fighting strategies and prepare to strike back. In Generation Zero, living is winning."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Gangs of Sherwood",
+      "released_date": " 30 Nov, 2023",
+      "genres": "Action, Adventure",
+      "platforms": "PC",
+      "developer": "Appeal Studios",
+      "rating": "none",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/18025117-gangs-of-sherwood-playstation-5-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i7-4790 or AMD Ryzen 5 1500X",
+        "ram": "4 GB",
+        "video_card":"NVIDIA GeForce GTX 1650S, 4 GB or AMD Radeon RX 570,",
+        "direX": "11",
+        "hdd_space":"15 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/99/43/9943c4a5-e56b-423a-916a-7f94a5542118.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.21.jpg","http://s01.riotpixels.net/data/f2/88/f28877f6-a339-47ce-bb74-2caa78499553.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.20.jpg","http://s01.riotpixels.net/data/11/4f/114f352b-d3eb-4e77-b83f-c3e7b8155a03.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.19.jpg","http://s01.riotpixels.net/data/24/53/2453f778-9128-4e9d-8a27-90e338db0a48.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.18.jpg","http://s01.riotpixels.net/data/84/cd/84cd35e5-e9b4-4a7d-81a6-488be4ecc82a.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.17.jpg","http://s01.riotpixels.net/data/eb/6a/eb6abf54-c2fd-4138-bc15-f605aeef6fb3.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.16.jpg","http://s01.riotpixels.net/data/d2/d9/d2d9b97d-ceba-487a-9fcd-d0ba6224494a.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.15.jpg","http://s01.riotpixels.net/data/23/eb/23eb79e4-4942-4fdf-b26c-e77f2cdae691.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.14.jpg","http://s01.riotpixels.net/data/cc/be/ccbedca2-d2d9-43a3-a812-7364ef6976e2.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.13.jpg","http://s01.riotpixels.net/data/9b/69/9b69b9ba-0e38-4577-a2cd-23323bc664f3.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.12.jpg","http://s01.riotpixels.net/data/f9/72/f9727482-a040-404c-9ff5-fcca3bf8ee37.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.11.jpg","http://s01.riotpixels.net/data/50/e4/50e42bf2-6408-447f-bcb9-08e2bce4d7fb.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.10.jpg","http://s01.riotpixels.net/data/a9/14/a91493f5-9686-4c17-97e3-fd64d1dca565.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.9.jpg","http://s01.riotpixels.net/data/08/c1/08c15bf1-794f-4098-8d50-11e346bf9de3.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.8.jpg","http://s01.riotpixels.net/data/11/f9/11f9ef35-526a-4449-b213-e066e55f760b.jpg.720p.jpg/screenshot.gangs-of-sherwood.1280x720.2023-10-16.7.jpg"
+      ],
+      "description":"Fight the armies of the Sheriff of Nottingham and lead the rebellion, solo or in co-op with up to 4 players. Play as one of the Merry Men, combine your attacks, and free the people in this futuristic dystopia inspired by the legend of Robin Hood."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Muller-Powell Principle",
+      "released_date": " 29 Nov, 2023",
+      "genres": "Action, Adventure, Indie",
+      "platforms": "PC",
+      "developer": "Three Dots Games",
+      "rating": "none",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/17925640-the-muller-powell-principle-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 / 8 / 10 / 11",
+        "processor" : "Quad-core Intel or AMD, 3 GHz or faster",
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 970 or AMD equivalen",
+        "direX": "10",
+        "hdd_space":"20.5 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/0e/e9/0ee984fe-6714-46b1-987a-ca04290a6a70.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.13.jpg","http://s01.riotpixels.net/data/f3/28/f328258a-c8cb-46d1-ba1e-a6a8751ff84c.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.12.jpg","http://s01.riotpixels.net/data/9a/a1/9aa1d0b7-2aae-4062-989e-1c853a39d3f1.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.11.jpg","http://s01.riotpixels.net/data/c7/b1/c7b11797-5615-41a7-a9dc-1effbff54a4a.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.10.jpg","http://s01.riotpixels.net/data/f8/77/f877fd19-0742-47f3-8f15-50cc7390d286.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.9.jpg","http://s01.riotpixels.net/data/c2/9d/c29d89e8-6ac8-4a4e-93af-ff49ea09ac09.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.8.jpg","http://s01.riotpixels.net/data/f6/b0/f6b0b25b-c37c-4392-b8f7-55599993bbac.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.7.jpg","http://s01.riotpixels.net/data/f5/44/f544db07-e4c7-4dfc-991c-9c93ba3a0073.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.6.jpg","http://s01.riotpixels.net/data/44/db/44db31fb-4552-40c2-9c29-e131d7f07078.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.5.jpg","http://s01.riotpixels.net/data/f3/22/f322b0ab-bd17-42cf-bbc9-09beec4aeec2.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.4.jpg","http://s01.riotpixels.net/data/a8/56/a8561390-9bb5-43a2-81a5-45c5b47acb54.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.3.jpg","http://s01.riotpixels.net/data/7c/54/7c54ceb6-23d5-4700-bb42-fd70e2288659.jpg.720p.jpg/screenshot.muller-powell-principle.1280x720.2023-11-29.2.jpg"
+      ],
+      "description":"Welcome to a breathtaking storyline full of portals, solving puzzles with an energy-absorbing weapon, and other adventures in a sci-fi atmosphere! Can you travel through parallel dimensions and uncover the secrets of your past?"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": " Bloody Spell: Deluxe Edition ",
+      "released_date": "26 Jan, 2022",
+      "genres": "Action, Adventure, Indie, RPG",
+      "platforms": "PC",
+      "developer": "Yi Long Games",
+      "rating": "none",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/10630638-bloody-spell-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 / 8 / 10 / 11",
+        "processor" : "Intel i5 Processor",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 770",
+        "direX": "10",
+        "hdd_space":"25 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d8/42/d8423ab8-55d4-41f6-aeda-77610958fb22.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2022-01-26.25.jpg","http://s01.riotpixels.net/data/a1/fc/a1fc3afb-879d-436e-8026-6074ea6b6c77.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2022-01-26.24.jpg","http://s01.riotpixels.net/data/57/8a/578a5777-cf8c-41b0-955d-a18e3d455d76.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2022-01-26.23.jpg","http://s01.riotpixels.net/data/78/66/7866414f-73a2-4a7b-9d35-2068d6462f71.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2022-01-26.22.jpg","http://s01.riotpixels.net/data/50/50/50500528-612d-4607-8420-96e01381ffc3.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2022-01-26.21.jpg","http://s01.riotpixels.net/data/5e/ce/5ece23c4-b974-40cc-a4d2-dfc8246bc1c7.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2022-01-26.20.jpg","http://s01.riotpixels.net/data/8c/66/8c6690d6-913f-4c9f-8f4b-9a4cc370432e.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2020-01-06.19.jpg","http://s01.riotpixels.net/data/60/be/60bee71c-1d9d-4ef3-b9d1-fa163e8b4f25.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2020-01-06.18.jpg","http://s01.riotpixels.net/data/1c/6a/1c6a673c-6bd2-4a67-a431-18e1fe8192bf.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2020-01-06.17.jpg","http://s01.riotpixels.net/data/36/27/36270886-9dd2-4b3f-b7e5-42a8325acbb0.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2020-01-06.16.jpg","http://s01.riotpixels.net/data/15/47/15474548-e968-42af-8cb1-0df163d12b30.jpg.720p.jpg/screenshot.bloody-spell.1280x720.2020-01-06.15.jpg"
+      ],
+      "description":"This is a martial arts action role-playing game. The core of the game is battle-oriented, and it combines many fighting elements. If you are a player who pursues blood and is brave enough to challenge the limits, it will definitely inspire your adrenaline and bring you the best combat experience."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Easy Red 2",
+      "released_date": "10 Nov, 2020",
+      "genres": "Action, Indie, Simulation, Strategy",
+      "platforms": "PC",
+      "developer": "Marco Amadei",
+      "rating": "none",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/16972762-easy-red-2-nintendo-switch-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 / 10 / 11",
+        "processor" : "Intel Celeron G530 / AMD Athlon II X2 250",
+        "ram": "1500 MB",
+        "video_card":"NVIDIA GeForce GT710 / AMD Radeon R5 240",
+        "direX": "11",
+        "hdd_space":"15 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/4c/0a/4c0a518b-f8c9-4f9b-a456-ea0d20edf396.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.13.jpg","http://s01.riotpixels.net/data/da/75/da751cce-7adc-4fd6-a78f-ecc96aeada24.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.12.jpg","http://s01.riotpixels.net/data/00/e3/00e35632-fb70-438a-b341-5efe8d4213fa.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.11.jpg","http://s01.riotpixels.net/data/99/0b/990b3e16-5aac-4f7b-b73e-4f9672ae7d04.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.10.jpg","http://s01.riotpixels.net/data/8a/96/8a96d3b9-a8e3-4ebd-ab0c-ab895959a6c7.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.9.jpg","http://s01.riotpixels.net/data/cc/6a/cc6adb2f-02b2-442d-a992-a95919e76bc1.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.8.jpg","http://s01.riotpixels.net/data/42/4b/424bd35b-8021-46b6-974d-3f2c4f37300e.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.7.jpg","http://s01.riotpixels.net/data/0a/91/0a91917b-78ef-4512-aff9-51fe82e9e8f8.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.6.jpg","http://s01.riotpixels.net/data/13/39/13399001-f0e1-4fae-a872-4621997a4993.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.5.jpg","http://s01.riotpixels.net/data/37/2a/372a50a3-4ad5-4c8c-a848-e9f203e5a789.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.4.jpg","http://s01.riotpixels.net/data/26/f1/26f198ae-686a-47eb-8be0-bdca1d0174cb.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.3.jpg","http://s01.riotpixels.net/data/39/e7/39e788ce-7ed4-4485-af9a-e202250cc6df.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.2.jpg","http://s01.riotpixels.net/data/b5/ee/b5ee26a0-a938-4770-89b8-fe6e0e3bf248.jpg.720p.jpg/screenshot.easy-red-2.1280x720.2022-09-12.1.jpg"
+      ],
+      "description":"Fight massive battles between infantry, armored vehicles, tanks, cannons and planes. Realistically manage your weapons and equipment, coordinate with your squad, and tactically navigate large, fully destructible open world maps. Experience the WW2 in singleplayer, PVP and Co-Op."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Farming Simulator 22 ",
+      "released_date": "February 2, 2016",
+      "genres": "Action, Adventure, RPG",
+      "platforms": "PC",
+      "developer": "Gunfire Games",
+      "rating": "none",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/3886923-farming-simulator-22-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "Intel Core i5-3330 / AMD FX-8320 or better",
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 660 / AMD Radeon R7 265 (min 2GB VRAM)",
+        "direX": "11",
+        "hdd_space":"37.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/e3/09/e30924a2-7202-45b9-b894-3f9a173b368e.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.34.jpg","http://s01.riotpixels.net/data/e2/a0/e2a0ed71-a654-44c7-95bd-b65ca7d1802e.jpg/screenshot.remnant-2.1920x1080.2023-11-24.33.jpg","http://s01.riotpixels.net/data/14/0f/140f62b4-8c13-4a03-b37e-40e3b3717fe8.jpg/screenshot.remnant-2.1920x1080.2023-11-24.32.jpg","http://s01.riotpixels.net/data/6c/8b/6c8bacf2-4a68-415c-9006-e8e5df2573c4.jpg/screenshot.remnant-2.1920x1080.2023-11-24.31.jpg","http://s01.riotpixels.net/data/f3/eb/f3ebc639-ea8f-47c6-a80c-144ac14f86bc.jpg/screenshot.remnant-2.1920x1080.2023-11-24.30.jpg","http://s01.riotpixels.net/data/47/b6/47b659fb-7854-42c2-8182-ed67c8570db7.jpg/screenshot.remnant-2.1920x1080.2023-11-24.29.jpg","http://s01.riotpixels.net/data/aa/88/aa889a9f-59db-4869-8978-edb75618645b.jpg/screenshot.remnant-2.1920x1080.2023-11-24.28.jpg","http://s01.riotpixels.net/data/23/c3/23c3b82e-5397-4e54-8475-1d1efe69d380.jpg/screenshot.remnant-2.1920x1080.2023-11-24.27.jpg","http://s01.riotpixels.net/data/d7/7e/d77ebfed-1e53-4103-ba49-908c1306ac65.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.26.jpg","http://s01.riotpixels.net/data/80/9f/809ff247-bd73-407f-aa1f-77a0203f472f.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.25.jpg","http://s01.riotpixels.net/data/cb/db/cbdb87d5-d272-482c-9b4b-7fe948e4316c.jpg/screenshot.remnant-2.1920x1080.2023-11-24.24.jpg","http://s01.riotpixels.net/data/a3/ec/a3ec1081-633b-426d-8de7-3f0c9b0240c4.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.23.jpg","http://s01.riotpixels.net/data/d9/f4/d9f44af4-573a-47b4-890f-9d7859099283.jpg/screenshot.remnant-2.1920x1080.2023-11-24.22.jpg","http://s01.riotpixels.net/data/dd/5c/dd5c6518-d5a6-4418-bcd5-0cf358c45ac4.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.21.jpg","http://s01.riotpixels.net/data/f2/46/f246937c-5d5f-4e32-ab83-8465a5d3d549.jpg/screenshot.remnant-2.1920x1080.2023-11-24.19.jpg","http://s01.riotpixels.net/data/a9/f0/a9f067e3-acd1-4ed8-a46b-d4a3114733ec.jpg/screenshot.remnant-2.1920x1080.2023-11-24.18.jpg","http://s01.riotpixels.net/data/56/97/5697cea4-219e-4dad-bb65-a6ab54b814c3.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.17.jpg"
+      ],
+      "description":"Remnant II pits survivors of humanity against new deadly creatures and god-like bosses across terrifying worlds. Play solo or co-op with two other friends to explore the depths of the unknown to stop an evil from destroying reality itself."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Remnant II ",
+      "released_date": "February 2, 2016",
+      "genres": "Action, Adventure, RPG",
+      "platforms": "PC",
+      "developer": "Gunfire Games",
+      "rating": "none",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/17445878-remnant-ii-playstation-5-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "Intel Core i5-7600 / AMD Ryzen 5 2600",
+        "ram": "16 GB",
+        "video_card":"GeForce GTX 1650 / AMD Radeon RX 590",
+        "direX": "11",
+        "hdd_space":"80 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/e3/09/e30924a2-7202-45b9-b894-3f9a173b368e.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.34.jpg","http://s01.riotpixels.net/data/e2/a0/e2a0ed71-a654-44c7-95bd-b65ca7d1802e.jpg/screenshot.remnant-2.1920x1080.2023-11-24.33.jpg","http://s01.riotpixels.net/data/14/0f/140f62b4-8c13-4a03-b37e-40e3b3717fe8.jpg/screenshot.remnant-2.1920x1080.2023-11-24.32.jpg","http://s01.riotpixels.net/data/6c/8b/6c8bacf2-4a68-415c-9006-e8e5df2573c4.jpg/screenshot.remnant-2.1920x1080.2023-11-24.31.jpg","http://s01.riotpixels.net/data/f3/eb/f3ebc639-ea8f-47c6-a80c-144ac14f86bc.jpg/screenshot.remnant-2.1920x1080.2023-11-24.30.jpg","http://s01.riotpixels.net/data/47/b6/47b659fb-7854-42c2-8182-ed67c8570db7.jpg/screenshot.remnant-2.1920x1080.2023-11-24.29.jpg","http://s01.riotpixels.net/data/aa/88/aa889a9f-59db-4869-8978-edb75618645b.jpg/screenshot.remnant-2.1920x1080.2023-11-24.28.jpg","http://s01.riotpixels.net/data/23/c3/23c3b82e-5397-4e54-8475-1d1efe69d380.jpg/screenshot.remnant-2.1920x1080.2023-11-24.27.jpg","http://s01.riotpixels.net/data/d7/7e/d77ebfed-1e53-4103-ba49-908c1306ac65.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.26.jpg","http://s01.riotpixels.net/data/80/9f/809ff247-bd73-407f-aa1f-77a0203f472f.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.25.jpg","http://s01.riotpixels.net/data/cb/db/cbdb87d5-d272-482c-9b4b-7fe948e4316c.jpg/screenshot.remnant-2.1920x1080.2023-11-24.24.jpg","http://s01.riotpixels.net/data/a3/ec/a3ec1081-633b-426d-8de7-3f0c9b0240c4.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.23.jpg","http://s01.riotpixels.net/data/d9/f4/d9f44af4-573a-47b4-890f-9d7859099283.jpg/screenshot.remnant-2.1920x1080.2023-11-24.22.jpg","http://s01.riotpixels.net/data/dd/5c/dd5c6518-d5a6-4418-bcd5-0cf358c45ac4.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.21.jpg","http://s01.riotpixels.net/data/f2/46/f246937c-5d5f-4e32-ab83-8465a5d3d549.jpg/screenshot.remnant-2.1920x1080.2023-11-24.19.jpg","http://s01.riotpixels.net/data/a9/f0/a9f067e3-acd1-4ed8-a46b-d4a3114733ec.jpg/screenshot.remnant-2.1920x1080.2023-11-24.18.jpg","http://s01.riotpixels.net/data/56/97/5697cea4-219e-4dad-bb65-a6ab54b814c3.jpg.720p.jpg/screenshot.remnant-2.1280x720.2023-11-24.17.jpg"
+      ],
+      "description":"Remnant II pits survivors of humanity against new deadly creatures and god-like bosses across terrifying worlds. Play solo or co-op with two other friends to explore the depths of the unknown to stop an evil from destroying reality itself."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Call to Arms - Gates of Hell: Ostfront ",
+      "released_date": "February 2, 2016",
+      "genres": "Action, Simulation, Strategy",
+      "platforms": "PC",
+      "developer": " Barbedwire Studios, Digitalmindsoft",
+      "rating": "96%",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/8975808-call-to-arms-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "64bit - Windows 7, 8, 10, 11",
+        "processor" : "Dual core CPU 2.4 GHz",
+        "ram": "8 GB",
+        "video_card":"GTX 1050 / RX 550",
+        "direX": "11",
+        "hdd_space":"86.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/77/24/77240d78-3d18-4355-bb00-6c003b72b8aa.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.28.jpg","http://s01.riotpixels.net/data/d5/cb/d5cb7ceb-9a73-4497-b3e3-0a04a1ce4b9d.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.27.jpg","http://s01.riotpixels.net/data/2f/c2/2fc237b4-24fe-4300-b5ba-7919cbb92e8c.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.26.jpg","http://s01.riotpixels.net/data/d9/e5/d9e5a067-f6e0-4502-958f-b5eef515d0fa.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.25.jpg","http://s01.riotpixels.net/data/45/5a/455ae8d5-930f-4de1-975d-1db3ebcbf5d7.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.24.jpg","http://s01.riotpixels.net/data/25/56/2556853e-c9c2-4444-98ef-37e97e0931c5.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.23.jpg","http://s01.riotpixels.net/data/9e/e5/9ee50bb7-709d-42b0-9a7a-a73e2355b9f3.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.22.jpg","http://s01.riotpixels.net/data/96/ed/96ed1da8-16e8-4e83-9e8b-d355295f215d.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.21.jpg","http://s01.riotpixels.net/data/6a/cf/6acf5402-97b4-436f-a077-6cebc2dd7f85.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.20.jpg","http://s01.riotpixels.net/data/bf/25/bf254dc9-2f35-4cea-8a02-4b8ab62e9917.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2020-12-29.19.jpg","http://s01.riotpixels.net/data/4c/5c/4c5c27ae-bbd0-47a5-b2fc-396537d8bb77.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2016-12-22.18.jpg","http://s01.riotpixels.net/data/15/38/1538a82f-1858-416a-b0b8-0080868e69f0.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2016-12-22.17.jpg","http://s01.riotpixels.net/data/c8/6e/c86e8ebc-4889-4b78-af02-26a50edd2035.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2015-08-31.15.jpg","http://s01.riotpixels.net/data/62/fa/62faa2bb-42c8-45ad-868f-48d8ef831e08.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2015-08-31.14.jpg","http://s01.riotpixels.net/data/46/39/4639674b-de73-42a7-8253-c504d70c2d6b.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2015-08-31.13.jpg","http://s01.riotpixels.net/data/8b/69/8b6919e3-b42d-447a-ab06-a24033d62ab3.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2015-08-31.12.jpg","http://s01.riotpixels.net/data/28/35/2835a94a-9ae7-406d-af89-12855efcb6ef.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2015-08-31.11.jpg","http://s01.riotpixels.net/data/06/06/0606f92b-aceb-4bf7-be69-3b8d04b15073.jpg.720p.jpg/screenshot.call-to-arms-gates-of-hell-ostfront.1280x720.2015-08-31.10.jpg"
+      ],
+      "description":"Call to Arms - Gates of Hell is a realistic RTS/ RTT game that offers endless replay value. Command all types of troops in historical singleplayer, dynamic campaign, PvP and PvE battles. Are you ready for some serious immersion in World War 2?"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "American Truck Simulator",
+      "released_date": "February 2, 2016",
+      "genres": "Driving, First-person, Third-person, 3D",
+      "platforms": "PC",
+      "developer": " SCS Software",
+      "rating": "96%",
+      "user_language": "Russian, English + 39 other languages",
+      "audio_language": " Roar-r-r-r-r",
+      "image":"https://cdn.mobygames.com/covers/9241620-american-truck-simulator-linux-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7",
+        "processor" : "Dual core CPU 2.4 GHz",
+        "ram": "4 GB",
+        "video_card":"GeForce GTS 450-class (Intel HD 4000)",
+        "direX": "9",
+        "hdd_space":"18.3 GB"
+
+      },
+      "screenshots":[
+        "https://s01.riotpixels.net/data/1b/55/1b55d0a6-b361-4aaf-94f3-07e51324185c.jpg.240p.jpg","https://s01.riotpixels.net/data/be/ba/beba2ed0-bc94-4cfd-99f6-02dd48f16fa2.jpg.240p.jpg","https://s01.riotpixels.net/data/5f/f8/5ff8ac50-9738-43b6-be85-25ea9dd0fce0.jpg.240p.jpg","https://s01.riotpixels.net/data/3e/cf/3ecf7976-4683-4587-8f4b-41d77696927c.jpg.240p.jpg","http://s01.riotpixels.net/data/f9/f1/f9f1084f-126b-4958-b612-842acf530c07.jpg.240p.jpg","http://s01.riotpixels.net/data/48/28/482867f9-3289-46b1-9ea7-fa3418ad258e.jpg.240p.jpg"
+      ],
+      "description":"Experience legendary American trucks and deliver various cargoes across sunny California and sandy Nevada. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States. Game mechanics are based on the highly successful model from Euro Truck Simulator 2 and have been expanded with new features, creating the most captivating game experience from SCS Software."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Walking Dead: Destinies",
+      "released_date": "1 Dec, 2023",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": " Flux Games",
+      "rating": "85%",
+      "user_language": "English, Japanese, Simplified Chinese",
+      "audio_language": " English, Japanese, Chinese",
+      "image":"https://cdn.mobygames.com/covers/17909541-the-walking-dead-destinies-nintendo-switch-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10/11",
+        "processor" : "I7 7700 / Ryzen 5 2600",
+        "ram": "8 GB",
+        "video_card":"GTX 1660 / RX 590",
+        "direX": "11",
+        "hdd_space":"57.2 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/17/84/17848549-f3ee-42c5-9acb-67a25e5453a0.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.9.jpg","http://s01.riotpixels.net/data/11/5d/115d0564-1710-45a0-87d8-a49c2779e82c.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.8.jpg","http://s01.riotpixels.net/data/58/cb/58cb1e88-45a4-4d68-85ff-935dc5446b58.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.7.jpg","http://s01.riotpixels.net/data/0f/12/0f1215a0-aa01-4009-9180-989d5d777104.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.6.jpg","http://s01.riotpixels.net/data/86/61/8661eaec-24bb-4cb5-87a0-17045df2b1d3.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.5.jpg","http://s01.riotpixels.net/data/a3/f9/a3f9704c-333a-4d7e-8c95-605343f6cdaa.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.4.jpg","http://s01.riotpixels.net/data/1a/f6/1af67316-6afa-48f8-bb8d-0d3e7da1f0ba.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.3.jpg","http://s01.riotpixels.net/data/df/6f/df6fc96d-8dca-4d1d-89ce-122eca95e0a4.jpg.720p.jpg/screenshot.walking-dead-destinies.1280x720.2023-12-02.2.jpg","http://s01.riotpixels.net/data/5e/35/5e35b84c-de3a-4abd-9f04-273ea3e08146.jpg.720p.jpg/screenshot.walking-dead-destinies.1299x720.2023-12-02.1.jpg"
+      ],
+      "description":"Begin your journey as Rick Grimes, waking alone in a hospital surrounded by the dead. Assemble allies and fight your way through the walker apocalypse across iconic locations from The Walking Dead, including Atlanta, the Greene family farm, the prison, and Woodbury. In crucial choice-driven moments, you’ll forever shape the destiny of your team of characters from the series. Heroes and villains, living and dead – it’s up to you to decide whether to stay the course of history or forge your own path through the world of AMC’s The Walking Dead."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Monster Hunter: Rise - Sunbreak",
+      "released_date": "12 Jan, 2022",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "CAPCOM Co., Ltd.",
+      "rating": "85%",
+      "user_language": "English, Japanese, Simplified Chinese",
+      "audio_language": " English, Japanese, Chinese",
+      "image":"https://cdn.mobygames.com/covers/10997764-monster-hunter-rise-sunbreak-nintendo-switch-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "Intel® Core™ i3-4130 or Core™ i5-3470 or AMD FX™-6100",
+        "ram": "8 GB",
+        "video_card":"NVIDIA® GeForce® GT 1030 (DDR4) or AMD Radeon™ RX 550",
+        "direX": "12",
+        "hdd_space":"36 GB"
+
+      },
+      "screenshots":[
+        "https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-090.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-089-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-085-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-077-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-071-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-098-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-092-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-073-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-071-1280x720.jpg","https://www.rpgfan.com/wp-content/uploads/2021/09/Monster-Hunter-Rise-Sunbreak-Screenshot-064-1280x720.jpg"
+      ],
+      "description":"Rise to the challenge and join the hunt! In Monster Hunter Rise, the latest installment in the award-winning and top-selling Monster Hunter series, you’ll become a hunter, explore brand new maps and use a variety of weapons to take down fearsome monsters as part of an all-new storyline. The PC release also comes packed with a number of additional visual and performance enhancing optimizations."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "BlazBlue Entropy Effect",
+      "released_date": "January 31, 2024",
+      "genres": "Arcade, Jump and run, Beat 'em up (Brawler), Side, 2D, Japanese",
+      "platforms": "PC",
+      "developer": "91Act",
+      "rating": "85%",
+      "user_language": "English, Japanese, Simplified Chinese",
+      "audio_language": " English, Japanese, Chinese",
+      "image":"https://cdn.mobygames.com/covers/17523250-blazblue-entropy-effect-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (x64)",
+        "processor" : "Intel Core i3",
+        "ram": "4 GB",
+        "video_card":"Nvidia GeForce GTX 950",
+        "direX": "10",
+        "hdd_space":"7.4 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/55/50/5550df12-1c55-4f59-8628-25f2be460240.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9f/fd/9ffd52a4-b648-472a-bc55-b35d0967a60a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6a/72/6a725bfb-e779-496b-8f1a-cd397f252ddc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/80/08/8008d793-8159-4dd5-96dd-4f841f566bd7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/92/27/922738ae-b666-4035-91db-6a348d75e1ee.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/17/93/1793ebb9-3745-43d2-b45f-a6f946f1db23.jpg.240p.jpg"
+      ],
+      "description":"Charismatic character designs with unique aesthetic styles and dramatic animations create a flamboyant, awesome combat experience. Smooth controls, infinite possibilities of combos, and realistic combat feedback. This is the roguelite game with the best action experience yet! Ten playable characters with vibrant personalities, unique combat styles, and immersive voice-acting."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Stargate: Timekeepers",
+      "released_date": "January 23, 2024",
+      "genres": "Strategy, Tactics, Top-down, 3D, Real-time",
+      "platforms": "PC",
+      "developer": " Slitherine Poland",
+      "rating": "48%",
+      "user_language": "English, French, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/18151145-stargate-timekeepers-windows-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 7 64-bit",
+        "processor" : "Intel Core i3-8100, AMD Ryzen 5 1600",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 950, Radeon R9 270X",
+        "direX": "11",
+        "hdd_space":"22.7  GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/1e/6a/1e6ab7dc-aef1-457c-beed-d1f2dbced01a.jpg.240p.jpg","http://s01.riotpixels.net/data/bd/46/bd461eac-00a3-465c-bee4-e5e1007a6422.jpg.240p.jpg","http://s01.riotpixels.net/data/d5/93/d593a7c8-4eb2-4916-a8c6-9a545fbdc3f1.jpg.240p.jpg","http://s01.riotpixels.net/data/51/c5/51c55864-fa6a-4137-b5b5-2089fea11a3e.jpg.240p.jpg","http://s01.riotpixels.net/data/4d/38/4d382bbb-ea49-4bd2-86eb-dae3fac31ba5.jpg.240p.jpg","http://s01.riotpixels.net/data/52/20/5220231a-306a-466a-b2e5-03ff3081ab66.jpg.240p.jpg"
+      ],
+      "description":"Stargate: Timekeepers is a tactical game in which you lead a team of specialists through a story-driven campaign featuring an original narrative set in the Stargate SG-1 universe. Sneak a newly formed team behind enemy lines, use your characters’ unique skills, craft the perfect plan and defeat the Goa’uld threat."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Assetto Corsa: Competizione",
+      "released_date": " May 29, 2019",
+      "genres": "Racing, Simulation, 3D, Cars",
+      "platforms": "PC",
+      "developer": "Kunos Simulazioni",
+      "rating": "92%",
+      "user_language": "English, Italian, French, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Polish, Portuguese, Russian",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/9258266-assetto-corsa-competizione-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 64-bit Service Pack 1",
+        "processor" : "Intel Core i5-4460 or AMD FX-8120",
+        "ram": "4 GB",
+        "video_card":"GeForce GTX 460 2GB, Radeon HD 7770",
+        "direX": "11",
+        "hdd_space":"17.9 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/9a/f2/9af22928-5dad-4e77-8961-5ef56d464962.jpg.240p.jpg","http://s01.riotpixels.net/data/9a/f2/9af22928-5dad-4e77-8961-5ef56d464962.jpg.240p.jpg","http://s01.riotpixels.net/data/cb/b1/cbb18635-cf3c-4659-b603-aed67dad8a76.jpg.240p.jpg","http://s01.riotpixels.net/data/e9/f6/e9f69b06-b2ad-4ac1-8b58-20b89ddda10f.jpg.240p.jpg","http://s01.riotpixels.net/data/e9/f6/e9f69b06-b2ad-4ac1-8b58-20b89ddda10f.jpg.240p.jpg","http://s01.riotpixels.net/data/85/3d/853d8150-63b7-4a35-b5ca-f018aa1d7b54.jpg.240p.jpg"
+      ],
+      "description":"Assetto Corsa Competizione is the new official Blancpain GT Series videogame. Thanks to the extraordinary quality of simulation, the game will allow you to experience the real atmosphere of the GT3 championship, competing against official drivers, teams, cars and circuits reproduced in-game with the highest level of accuracy ever achieved. Sprint, Endurance and Spa 24 Hours races will come to life with an incredible level of realism, in both single and multiplayer modes."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+      "released_date": " January 25, 2024",
+      "genres": "Arcade, Fighting, Side, 2D",
+      "platforms": "PC",
+      "developer": "French Bread, Arc System Works",
+      "rating": "44%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+      "audio_language": "Japanese",
+      "image":"https://cdn.mobygames.com/covers/18159255-under-night-in-birth-sysceles-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7",
+        "processor" : "Intel Core i5, 3.2 GHz",
+        "ram": "4 GB",
+        "video_card":"Nvidia GeForce GTX 680 / Radeon HD 7970",
+        "direX": "9",
+        "hdd_space":"15.5 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/0f/40/0f4043c7-dfce-41b5-9978-3705dccc6fd8.jpg.240p.jpg","http://s01.riotpixels.net/data/14/d1/14d1fd01-aa2b-4cda-94c7-f77a0bc8e31a.jpg.240p.jpg","http://s01.riotpixels.net/data/28/c6/28c654ea-cf46-481c-b043-e2ee563295d8.jpg.240p.jpg","http://s01.riotpixels.net/data/14/9f/149fff2a-cfe0-46c1-a74f-51d7acfffa08.jpg.240p.jpg","http://s01.riotpixels.net/data/14/9f/149fff2a-cfe0-46c1-a74f-51d7acfffa08.jpg.240p.jpg","http://s01.riotpixels.net/data/14/9f/149fff2a-cfe0-46c1-a74f-51d7acfffa08.jpg.240p.jpg"
+      ],
+      "description":"Sys:Celes sinks towards ruination. For the Immortalize, the collapse of all that is, looms on the horizon. The curtain rises on the final chapter of the Hollow Night. Catastrophe beckons... Experience the Dramatic Stylish 2D Fighting Action in the latest entry of the UNDER NIGHT IN-BIRTH series! The first numbered sequel in the series!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "GRIME: Definitive Edition",
+      "released_date": " August 2, 2021",
+      "genres": "Action, Adventure, RPG, Side, 3D",
+      "platforms": "PC",
+      "developer": "Clover Bite",
+      "rating": "86%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Russian, Hebrew",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/10335380-grime-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel i5 3470 or AMD equivelent",
+        "ram": "4 GB",
+        "video_card":"nVidia GeForce 960 or AMD equivalent",
+        "direX": "10",
+        "hdd_space":"14.6 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/9c/8b/9c8b7006-a194-456e-8d84-ffcc5f0491d5.jpg.240p.jpg","http://s01.riotpixels.net/data/51/1f/511f2f69-6bba-4374-a131-149884b2d411.jpg.240p.jpg","http://s01.riotpixels.net/data/2b/b5/2bb539cd-f3c6-431c-b86c-c0b604aa56d7.jpg.240p.jpg","http://s01.riotpixels.net/data/7e/b8/7eb8f7be-3f72-4a8a-95dd-a61bbfb71a31.jpg.240p.jpg","http://s01.riotpixels.net/data/7e/b8/7eb8f7be-3f72-4a8a-95dd-a61bbfb71a31.jpg.240p.jpg","http://s01.riotpixels.net/data/7e/b8/7eb8f7be-3f72-4a8a-95dd-a61bbfb71a31.jpg.240p.jpg"
+      ],
+      "description":"An unusual material collapses in on itself, the world shudders and contracts, and suddenly you are squeezed into existence. What awaits you is a world unknown, alien in its own familiarity, and you must survive what terrors you face. Explore your surreal surroundings, absorb the many enemies you encounter, and use their own traits against them as you let yourself become far more than you once were."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "BeachHead",
+      "released_date": "January 23, 2024",
+      "genres": "Arcade, Gun game, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Digital Fusion",
+      "rating": "60%",
+      "user_language": "English",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17267453-beachhead-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel i3-6100/AMD Ryzen 3 1200, FX4350 or greater",
+        "ram": "10 GB",
+        "video_card":"NVIDIA GeForce GTX 1650 SUPER/AMD Radeon RX 5500 XT",
+        "direX": "11",
+        "hdd_space":"6.4 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/e4/a4/e4a4fade-04e8-4df7-9451-86566c6e8813.jpg.240p.jpg","http://s01.riotpixels.net/data/97/44/974445ef-e0e8-4ea5-a818-4d25204064ee.jpg.240p.jpg","http://s01.riotpixels.net/data/3c/de/3cde3b09-955c-44e8-8f47-639eb90b7a50.jpg.240p.jpg","http://s01.riotpixels.net/data/f6/b9/f6b977a0-691a-43a3-8607-d47fc5f6e2ca.jpg.240p.jpg","http://s01.riotpixels.net/data/f6/b9/f6b977a0-691a-43a3-8607-d47fc5f6e2ca.jpg.240p.jpg","http://s01.riotpixels.net/data/f6/b9/f6b977a0-691a-43a3-8607-d47fc5f6e2ca.jpg.240p.jpg"
+              ],
+      "description":"BeachHead is not just a game, it's an immersive journey into a parallel universe where abandoned weaponry shapes the struggle for dominance. Led by the formidable Musso-Khan, the Death Army vies for control, symbolizing a broader contest between autocracy and freedom. Developed by Pepe Moreno, the original creator of the iconic BH2000 series, this revitalized BeachHead offers a full VR experience and living world. Dive into a rich economy, earn BHC credits, and seamlessly trade in the fully integrated BH Marketplace. With enhanced graphics, realistic battles, and a revamped interface, BeachHead delivers a thrilling and strategic gaming experience. Your legacy awaits in this new era of BeachHead!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Terraformers: Deluxe Edition",
+      "released_date": "March 9, 2023",
+      "genres": "Strategy, Isometric, 2D",
+      "platforms": "PC",
+      "developer": "Asteroid Lab",
+      "rating": "88%",
+      "user_language": "English, French, German, Spanish - Spain, Russian, Simplified Chinese, Polish, Korean, Japanese",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/10475841-terraformers-linux-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Any",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8 GB)",
+        "direX": "11",
+        "hdd_space":"2.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/1b/45/1b453220-3b94-42fd-8421-456408f112dc.jpg.240p.jpg","http://s01.riotpixels.net/data/cc/a8/cca8282b-9bc3-4819-981e-b84e029539aa.jpg.240p.jpg","http://s01.riotpixels.net/data/cc/a8/cca8282b-9bc3-4819-981e-b84e029539aa.jpg.240p.jpg","http://s01.riotpixels.net/data/cc/a8/cca8282b-9bc3-4819-981e-b84e029539aa.jpg.240p.jpg","http://s01.riotpixels.net/data/cc/a8/cca8282b-9bc3-4819-981e-b84e029539aa.jpg.240p.jpg","http://s01.riotpixels.net/data/cc/a8/cca8282b-9bc3-4819-981e-b84e029539aa.jpg.240p.jpg"
+        ],
+      "description":"Send your leaders to mysterious locations and uncover rich resource depots, giant crystal caves and stunning natural wonders.Found new cities on craters and in lava Tubes. Make them thrive and meet your population's rising demands.As the planet is procedurally generated, every new playthrough will be unique."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Red Glare",
+      "released_date": "January 25, 2024",
+      "genres": "Strategy, Tactics, World War II, Isometric, 3D, Real-time",
+      "platforms": "PC",
+      "developer": ": BT Studios",
+      "rating": "not enough reviews",
+      "user_language": "English",
+      "audio_language": "English, German, Urdu",
+      "image":"https://cdn.mobygames.com/covers/18164333-red-glare-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8 GB)",
+        "direX": "11",
+        "hdd_space":"5.1 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/a0/18/a018352a-6d22-47a5-9f42-d53faa89437a.jpg.240p.jpg","http://s01.riotpixels.net/data/dd/10/dd10dfe8-fa30-451f-8314-e5dfb113bad8.jpg.240p.jpg","http://s01.riotpixels.net/data/dd/10/dd10dfe8-fa30-451f-8314-e5dfb113bad8.jpg.240p.jpg","http://s01.riotpixels.net/data/dd/10/dd10dfe8-fa30-451f-8314-e5dfb113bad8.jpg.240p.jpg","http://s01.riotpixels.net/data/dd/10/dd10dfe8-fa30-451f-8314-e5dfb113bad8.jpg.240p.jpg","http://s01.riotpixels.net/data/dd/10/dd10dfe8-fa30-451f-8314-e5dfb113bad8.jpg.240p.jpg","http://s01.riotpixels.net/data/dd/10/dd10dfe8-fa30-451f-8314-e5dfb113bad8.jpg.240p.jpg"
+        ],
+      "description":"Red Glare is a WW2 real-time tactics game where you play agents of the OSS, the precursor to the CIA, combating a secret German expedition in South America. With five well balanced characters and a story campaign playing out across a continent with jungle, desert, and snow maps, this game will revive your old-school memories of real-time tactics."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! Remastered",
+      "released_date": "January 25, 2024",
+      "genres": "Arcade, 3D",
+      "platforms": "PC",
+      "developer": "Dejobaan Games, Petricore",
+      "rating": "not enough reviews",
+      "user_language": "English",
+      "audio_language": "AaaaaAAaaaAAAaaAAAAaAAAAA",
+      "image":"https://cdn.cloudflare.steamstatic.com/steam/apps/1372460/header.jpg?t=1707098167",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "2 GHz Dual Core",
+        "ram": "4 GB",
+        "video_card":"2GB VRAM",
+        "direX": "10",
+        "hdd_space":"3.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/09/ba/09baee5d-0d75-4ac9-8637-6cd72c773ca5.jpg.240p.jpg","http://s01.riotpixels.net/data/ac/0c/ac0ca7f6-b8ee-4e26-94e6-ca8c06c1ab55.jpg.240p.jpg","http://s01.riotpixels.net/data/ac/0c/ac0ca7f6-b8ee-4e26-94e6-ca8c06c1ab55.jpg.240p.jpg","http://s01.riotpixels.net/data/72/50/72502c97-32c4-44a3-87a1-d0f761eb25f5.jpg.240p.jpg","http://s01.riotpixels.net/data/b3/f5/b3f541a8-ea30-41f5-87d1-da41df9dcf77.jpg.240p.jpg","http://s01.riotpixels.net/data/54/9e/549e1ec2-df62-4f9c-aa76-bf13a427ff64.jpg.240p.jpg"
+      ],
+      "description":"You're a skydiving, video-streaming guerilla artist in the floating city of Boston High. Your job is to leap from buildings, cause mischief, and not get caught by the police."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Palworld",
+      "released_date": "January 25, 2024",
+      "genres": "RPG, Action RPG, Side, 2D",
+      "platforms": "PC",
+      "developer": "Humble Mill",
+      "rating": "90%",
+      "user_language": "none",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/18130390-palworld-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 or later (64-Bit)",
+        "processor" : "i5-3570K 3.4 GHz 4 Core",
+        "ram": "16 GB",
+        "video_card":"GeForce GTX 1050 (2GB)",
+        "direX": "11",
+        "hdd_space":"40 GB"
+
+      },
+      "screenshots":[
+        "https://preview.redd.it/2ist8k5fa7hc1.png?width=1920&format=png&auto=webp&s=eb18924c5ad0b653919ba87c0e413510b3e8f88b","https://preview.redd.it/p2yhxg5fa7hc1.png?width=1920&format=png&auto=webp&s=e405c115950c968d495d95142be4663edb3b9212","https://preview.redd.it/2yw5xg5fa7hc1.png?width=1920&format=png&auto=webp&s=9929f7fe8eba9b0ed33942ac1438082258a94863","https://preview.redd.it/1dauwh5fa7hc1.png?width=1920&format=png&auto=webp&s=8947e46df4e0e867618f5da18d52247d2e08d0df"
+      ],
+      "description":"Fight, farm, build and work alongside mysterious creatures called 'Pals' in this completely new multiplayer, open world survival and crafting game!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Oblivion Override",
+      "released_date": "January 25, 2024",
+      "genres": "RPG, Action RPG, Side, 2D",
+      "platforms": "PC",
+      "developer": "Humble Mill",
+      "rating": "90%",
+      "user_language": " English, Simplified Chinese, Japanese, Traditional Chinese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17183067-oblivion-override-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel i5+",
+        "ram": "2 GB",
+        "video_card":"1GB VRAM/DirectX 10+ support",
+        "direX": "10",
+        "hdd_space":"2.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/f3/5f/f35f17fc-639c-44d9-896b-e87c084209e5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/81/2c/812cfd82-1d8b-444f-a29f-9b0ccb558149.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7e/3d/7e3d1594-a44e-42b1-bfa2-55a03764e772.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/de/39/de395aa2-dd65-4b69-aea0-fc07286887a6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/38/2f/382f77e4-91e9-434a-8878-5cf258ba3c38.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/cb/7a/cb7a8781-3809-409f-bc15-b68861cf56fc.jpg.240p.jpg"
+      ],
+      "description":"In a post-apocalyptic wasteland under AI’s iron grip, the remnants of humanity are imprinted in the digital shackles of the ‘Oblivion Code’. To unravel the intricate web of secrets within the dystopian AI civilization, Crimson, a rogue combat bot, embarks on a daring incursion into the neon-drenched corridors of Dulce Base…"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Leviathan's Fantasy",
+      "released_date": "June 26, 2023",
+      "genres": " Managerial, Strategy, Isometric, 3D",
+      "platforms": "PC",
+      "developer": " Star Chess Studio",
+      "rating": "76%",
+      "user_language": "English, Simplified Chinese, Traditional Chinese",
+      "audio_language": "Chinese",
+      "image":"https://cdn.mobygames.com/covers/17242407-the-leviathans-fantasy-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "AMD A10 7850K, Intel i3-2000",
+        "ram": "8 GB",
+        "video_card":"MD/NVIDIA dedicated GPU, 4GB dedicated VRAM (Radeon R9 280, Geforce GTX 960)",
+        "direX": "11",
+        "hdd_space":"13.3  GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/be/4b/be4b6ab0-5d36-497f-bd4c-ae0d29c3ab10.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ea/d7/ead7dad3-9046-47bb-bce3-5060f454d67b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a0/5a/a05aa97b-daf0-48ad-8579-f901cc8aebc3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2c/b6/2cb60b66-b6d5-40e5-8a6d-f3d020bd1059.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d1/40/d1405d1c-e686-4881-920f-15894802df70.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/43/e4/43e4357f-7533-4afb-aa0a-2806cb1e0038.jpg.240p.jpg"
+      ],
+      "description":"Hollow Knight is a classically styled 2D action adventure across a vast interconnected world. Explore twisting caverns, ancient cities and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient mysteries at the kingdom’s heart."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Hollow Knight",
+      "released_date": "28 Apr. 2020",
+      "genres": "Simulator / 3D",
+      "platforms": "PC",
+      "developer": "Saber Interactive",
+      "rating": "none",
+      "user_language": "English, French, Italian, German, Spanish, Japanese, Korean, Simplified Chinese, Russian, Portuguese-Brazil",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/3626796-hollow-knight-linux-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7/8/10 (64 bits)",
+        "processor" : "Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz",
+        "ram": "8 GB",
+        "video_card":"2 GB, GeForce GTX 660 / Radeon R9 270",
+        "direX": "11",
+        "hdd_space":"1.5 GB"
+
+      },
+      "screenshots":[
+        "https://1.bp.blogspot.com/-ZdSF-cjvpZg/ZDVTbZs3TtI/AAAAAAABWo4/gS63PBWiLsokUyS1jL7JKFC7qeeuCsR1wCNcBGAsYHQ/s1920/hollow-knight-pc-screenshot-1.jpg",
+        "https://1.bp.blogspot.com/-ckmB9wCnhBo/ZDVTbYcOpeI/AAAAAAABWo8/zp5jbybxmFIfDlw28c-Lb8afsoScQFKegCNcBGAsYHQ/s1920/hollow-knight-pc-screenshot-2.jpg",
+        "https://1.bp.blogspot.com/-K1j3YXM8fPY/ZDVTbttLVkI/AAAAAAABWpA/2x5z-MA8QIgIy3vIVw09cwm4c7ZZkauqwCNcBGAsYHQ/s1920/hollow-knight-pc-screenshot-3.jpg",
+        "https://1.bp.blogspot.com/-9sJ1NFTfO9c/ZDVTbyHqZiI/AAAAAAABWpE/oAyVgFakHjMbkZ9RDMViopzCFlw9HZYsgCNcBGAsYHQ/s1920/hollow-knight-pc-screenshot-4.jpg"
+      ],
+      "description":"Hollow Knight is a classically styled 2D action adventure across a vast interconnected world. Explore twisting caverns, ancient cities and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient mysteries at the kingdom’s heart."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "SnowRunner: Premium Edition ",
+      "released_date": "28 Apr. 2020",
+      "genres": "Simulator / 3D",
+      "platforms": "PC",
+      "developer": "Saber Interactive",
+      "rating": "none",
+      "user_language": "MULTi13",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/10040266-snowrunner-premium-edition-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7/8/10 (64 bits)",
+        "processor" : "Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz",
+        "ram": "8 GB",
+        "video_card":"2 GB, GeForce GTX 660 / Radeon R9 270",
+        "direX": "11",
+        "hdd_space":"50.3 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/a0/a4/a0a4d78a-68ca-4d4d-b110-52d7274cf2be.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.26.jpg",
+        "http://s01.riotpixels.net/data/05/59/055988bc-1b3e-4235-99ba-d654dd8f26cb.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.25.jpg",
+        "http://s01.riotpixels.net/data/c2/18/c2180328-ae0a-4da2-869d-9f7294721941.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.24.jpg",
+        "http://s01.riotpixels.net/data/6b/ed/6bed0fb9-17e6-4616-8ee1-5d2b9b68c948.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.23.jpg",
+        "http://s01.riotpixels.net/data/0a/b7/0ab77084-d140-4199-a016-0ed8baec8bca.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.22.jpg",
+        "http://s01.riotpixels.net/data/4c/f6/4cf60309-4374-49ca-8d57-4c501c0e0d47.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.21.jpg",
+        "http://s01.riotpixels.net/data/e4/22/e422a141-fb3e-4d51-8081-ea956395f7ce.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.20.jpg",
+        "http://s01.riotpixels.net/data/35/cd/35cd6059-b7c9-4694-807f-9e689b46387f.jpg.720p.jpg/screenshot.snowrunner.1280x720.2020-02-18.19.jpg"
+      ],
+      "description":"Get ready for the new chapter in off-road adventures! Drive powerful trucks from brands such as Ford and Chevrolet, and conquer the harsh environmental conditions in the most advanced off-road driving simulator in history. Overcome dirt, torrential rain, snow and frozen lakes, performing dangerous contracts and tasks. Expand and customize your fleet with many enhancements and accessories, such as a snorkel for overcoming heavy rainfall or snow chains for snow."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Jujutsu Kaisen: Cursed Clash - Ultimate Edition",
+      "released_date": "February 2, 2024",
+      "genres": "Arcade, Fighting, 3D, Japanese",
+      "platforms": "PC",
+      "developer": "Byking",
+      "rating": "57%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese, Spanish - Latin America",
+      "audio_language": " English, Japanese",
+      "image":"https://cdn.mobygames.com/covers/18194964-jujutsu-kaisen-cursed-clash-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i3-2125 / AMD Phenom II X4 965",
+        "ram": "4 GB",
+        "video_card":"Nvidia GeForce GTX 660 Ti / AMD Radeon RX 560 / Intel Arc A380",
+        "direX": "11",
+        "hdd_space":"9.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/0d/fc/0dfcb65d-36a1-4e77-b79e-d52c7d93f7f9.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/23/05/23055198-ecce-45b5-afcf-4c100a195bc0.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f0/16/f01694f4-7e8a-4a05-a225-cb11926dfaf6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6c/43/6c43cf9d-aeb5-4493-a1ec-4d8cf2732d59.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/62/7f/627f3f55-f75d-4c58-8e8a-8a199ecd65fa.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/55/b4/55b48be7-3556-4055-89cd-df8ac18e8a4b.jpg.240p.jpg"
+      ],
+      "description":"2 vs. 2 Cursed Technique Battles Aim to become the strongest together by taking advantage of the characteristics of each technique, aiming for a Joint Attack that is triggered by combining attacks, and working together in harmony to assess the battle situation!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The King of Fighters XV",
+      "released_date": "February 17, 2022",
+      "genres": "Arcade, Fighting, Side, 3D",
+      "platforms": "PC",
+      "developer": "SNK CORPORATION",
+      "rating": "83%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Thai",
+      "audio_language": "Japanese",
+      "image":"https://cdn.mobygames.com/covers/10672976-the-king-of-fighters-xv-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (x64)",
+        "processor" : "Intel Core i5",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 770 2 GB / AMD Radeon R9 280 3 GB",
+        "direX": "11",
+        "hdd_space":"73.1 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/89/db/89dbb80a-4657-4fb7-ba00-7b3d913359c5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/df/3c/df3c61e1-2f76-4944-8d10-a867944e316f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2e/43/2e43885e-9ef4-49fc-9771-b7827cc44e69.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7c/b2/7cb2a5db-d9e6-4403-88b8-280a175f7fc2.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6d/62/6d62fc45-b83c-4f8d-8ef4-5dd81db003b9.jpg.240p.jpg"
+      ],
+      "description":"Transcend beyond your limits with KOF XV! Since its debut in 1994, the KOF fighting game series has been driving the world to new heights of excitement with its appealing characters and unique game system. Six years have passed since the last title in the series, and now KOF XV surpasses all of its predecessors in terms of graphics, systems, and online experience!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Granblue Fantasy: Relink",
+      "released_date": "November 28, 2023",
+      "genres": " Action, Adventure, RPG, Free to Play",
+      "platforms": "PC",
+      "developer": "Cygames, Inc.",
+      "rating": "87%",
+      "user_language": "English, French, German, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Japanese, Polish, Russian, Czech",
+      "audio_language": "English, French, German, Czech",
+      "image":"https://cdn.mobygames.com/covers/18184021-granblue-fantasy-relink-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 10 / 11",
+        "processor" : "  Intel® Core™ i3-9100 / AMD Ryzen™ 3 3200G",
+        "ram": "16 GB",
+        "video_card":"NVIDIA® GeForce GTX™ 1060 6GB / AMD Radeon™ RX 580 8GB",
+        "direX": "11",
+        "hdd_space":"90 GB"
+
+      },
+      "screenshots":[
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-107-1280x720.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-106-1280x720.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-105.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-104-1280x720.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-099.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-071-700x394.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-070-700x394.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-069-700x394.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-066-700x394.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2020/07/Granblue-Fantasy-Relink-Screenshot-058-700x394.jpg"
+      ],
+      "description":"A grand adventure in the skies awaits! Form a party of four from a diverse roster of skyfarers and slash—or shoot or hex—your way to victory against treacherous foes in this action RPG. Take on quests solo or with the help of others in up to 4-player co-op play!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Last Train Home: Digital Deluxe Edition",
+      "released_date": "November 28, 2023",
+      "genres": "Strategy, RTS, World War I, Isometric, 3D",
+      "platforms": "PC",
+      "developer": " Ashborne Games",
+      "rating": "87%",
+      "user_language": "English, French, German, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Japanese, Polish, Russian, Czech",
+      "audio_language": "English, French, German, Czech",
+      "image":"https://cdn.mobygames.com/covers/17920318-last-train-home-windows-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows® 7 64 bit",
+        "processor" : " 3 GHz Quad-Core",
+        "ram": "8 GB",
+        "video_card":"Nvidia® GeForce™ GTX 1050-Ti (4GB) / AMD® Radeon™ RX 570 (4GB)",
+        "direX": "9",
+        "hdd_space":"22.2 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/23/b7/23b7f2d4-d97c-46c1-a044-370910fb634b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/68/22/682270fe-e2d7-40f9-9bfe-ce4db97ba5ec.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/fb/68/fb68a34c-3fc4-484e-8ed2-ea3fc46ecbae.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b8/54/b854e4d5-4969-46f1-af88-494956284b96.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b8/54/b854e4d5-4969-46f1-af88-494956284b96.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/73/79/73792d3e-3387-4e45-94eb-938a387e134d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/25/6a/256a0b9a-eabc-4a45-904d-1bddc6a96613.jpg.240p.jpg"
+      ],
+      "description":"Embark on a desperate mission through the depths of a war-torn wasteland. Your goal is to guide Czechoslovak soldiers back home onboard an armored train, but the path ahead is fraught with peril. Caught in the middle of a brutal civil war between Russia's Red and White Armies, your unit must remain in fighting shape, managing what little resources you have and maintaining morale at all costs. Venture through the bleak and unforgiving landscape of Siberia, where the freezing cold and the merciless environment will push you to your very limit. Resources are scarce and your crew is exhausted, but you must keep pushing forward."
+
+    },
     {
       "update_date" : "January 15, 2024",
       "title": "GUILTY GEAR -STRIVE-: Daredevil Edition v1.34",
@@ -63,20 +1097,37 @@
 
     },
     {
-      "title": "Call of Duty: Warzone",
-      "releaseYear": 2020,
-      "platforms": ["PlayStation", "Xbox", "PC"],
-      "modes": ["Battle Royale", "Plunder"],
-      "rating": 4.6,
-      "description": "Call of Duty: Warzone is a free-to-play battle royale game...",
-      "screenshots": [
-        "screenshots/warzone_1.jpg",
-        "screenshots/warzone_2.jpg",
-        "screenshots/warzone_3.jpg"
-      ]
-    }
-  ],
-  "games":[
+      "update_date" : "January 15, 2024",
+      "title": "Sovereign Syndicate: Digital Deluxe Edition v1.0.19 + Bonus Content",
+      "released_date": "January 15, 2024",
+      "genres": "RPG, Open world, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Crimson Herring Studios",
+      "rating": "100% of user reviews are positive (based on 25 reviews)",
+      "user_language": "English",
+      "audio_language": "none",
+      "image":"https://telegra.ph/file/04b067f3f6b01fc8d1d54.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "Intel Core i3 or equivalent",
+        "ram": "8 GB",
+        "video_card":"Direct X Compatible Video Card with 2GB",
+        "direX": "11",
+        "hdd_space":"10.7 GB"
+
+      },
+      "screenshots":[
+        "https://s01.riotpixels.net/data/07/ad/07ad084d-8fbd-4f58-8c85-35ec195ad57b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1f/c2/1fc2e47f-9471-4ad8-ad3b-9c9dbd05fb42.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6c/bc/6cbc2192-ec18-4eee-9ddc-a049e3897088.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6c/bc/6cbc2192-ec18-4eee-9ddc-a049e3897088.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/65/c5/65c52dee-9591-40ed-8b7d-fafb7791d2df.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5f/de/5fdeabde-47b0-4026-a3ba-056e839b3571.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ab/9c/ab9c6e48-962e-417b-8a5d-ea0249e9522e.jpg.240p.jpg"
+      ],
+      "description":"Explore an open world in this Victorian steampunk cRPG. Play as three characters with branching stories that intertwine. Investigate, interact, and take action to leave your mark on the world and its inhabitants. No random stat points here, use your skills to level them up, and trust your fate to our tarot card chance system."
+
+    },
     {
       "update_date" : "January 15, 2024",
       "title": "Prince of Persia: The Lost Crown v1.0.2",
@@ -198,7 +1249,35 @@
       "description":"From the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is the epitome of life and survival in the heart of wild America. An incredibly spacious and carefully designed game world will also form the basis for a completely new online mode.America, 1899. The era of the Wild West is coming to an end. The servants of the law methodically hunt the remnants of the gangs. Those who do not want to surrender are killed. After the failed bank robbery, Arthur Morgan and other henchmen of Dutch van der Linde are forced to go on the run.Their gang will take part in thefts, robberies and shootings in the heart of America, on an inhospitable land, where every day is a struggle for survival. Federal agents and the best bounty hunters in the country are on their heels, and the gang itself is torn apart by internal divisions. Arthur will have to choose what is more important to him: his own ideals or loyalty to the people who raised him."
 
     },
-    
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Call of Duty®: Black Ops Cold War",
+      "released_date": "8 Mar, 2023",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "Treyarch, Raven Software, High Moon Studios, Beenox, Activision Shanghai, Sledgehammer Games",
+      "rating": "none",
+      "user_language": "Russian, English, MULTi13",
+      "audio_language": " English",
+      "image":"https://cdn.mobygames.com/covers/10825165-call-of-duty-black-ops-cold-war-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 10 64-bit (v.1803 or higher)",
+        "processor" : "Intel® Core™ i3-4340 or AMD FX-6300*",
+        "ram": "8 GB",
+        "video_card":"NVIDIA® GeForce® GTX 670 / NVIDIA® GeForce® GTX 1650 or AMD ",
+        "direX": "12",
+        "hdd_space":"175 GB"
+
+      },
+      "screenshots":[
+        "https://cdn.mobygames.com/screenshots/6581942-call-of-duty-black-ops-cold-war-playstation-5-shootout-on-the-ro.jpg",
+        "https://cdn.mobygames.com/screenshots/12547487-call-of-duty-black-ops-cold-war-playstation-5-welcome-to-vietnam.jpg",
+        "https://cdn.mobygames.com/screenshots/12548986-call-of-duty-black-ops-cold-war-playstation-5-an-embarrassing-mo.jpg",
+        "https://cdn.mobygames.com/screenshots/6714931-call-of-duty-black-ops-cold-war-playstation-5-air-support-to-the.jpg"
+      ],
+      "description":"Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s."
+
+    },
     {
       "update_date" : "5 nov. 2019",
       "title": "Dragon Age: Origins – Ultimate Edition GOG Version",
