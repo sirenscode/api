@@ -47,6 +47,131 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "Visage",
+      "released_date": "October 30, 2020",
+      "genres": "Exploration, Adventure, First-person, 3D",
+      "platforms": "PC",
+      "developer": "SadSquare Studio",
+      "rating": "87%",
+      "user_language": "English, French, Italian, Spanish - Spain, Arabic, Bulgarian, Dutch, Greek, Portuguese, Russian, Swedish, Ukrainian, German, Japanese, Korean, Simplified Chinese, Turkish, Hungarian, Polish",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/9364638-visage-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "WINDOWS® 7, 8, 8.1, 10",
+        "processor" : "Intel® Core™ i3 or AMD Ryzen™ 3", 
+        "ram": "6 GB",
+        "video_card":" NVIDIA® GeForce® GTX 950 or AMD Radeon™ R7 370",
+        "direX": "10",
+        "hdd_space":"7.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/42/49/42490c22-3d81-4fc0-b184-fd63a1c79ae0.jpg.240p.jpg","http://s01.riotpixels.net/data/49/47/49471dc7-6d48-40a6-be06-c14d95dd9ca3.jpg.240p.jpg","http://s01.riotpixels.net/data/74/c8/74c8dd81-f851-444d-b52e-1a69fbcaf772.jpg.240p.jpg","http://s01.riotpixels.net/data/a4/89/a489face-45e8-46f8-b3fb-0e30472de28e.jpg.240p.jpg","http://s01.riotpixels.net/data/01/10/01103295-8c69-49b1-a3ed-08fdc52ecc94.jpg.240p.jpg","http://s01.riotpixels.net/data/3f/82/3f82182b-9814-4ed0-9566-b26aa1b64e2e.jpg.240p.jpg"
+      ],
+       "description":"Visage is a first-person psychological horror game. Explore a mysterious ever-changing house in a slow-paced, atmospheric world that combines both uncannily comforting and horrifyingly realistic environments, and enjoy a genuinely terrifying experience."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Fallout: New Vegas - Ultimate Edition",
+      "released_date": "October 19, 2010; GOG - June 2, 2017",
+      "genres": "RPG, First-person, Third-person, 3D, Post-apocalypse",
+      "platforms": "PC",
+      "developer": "Obsidian Entertainment",
+      "rating": "56%",
+      "user_language": "English, German, Spanish, Italian, French, Russian, Polish, Czech",
+      "Audio Language": "English, German, Spanish, Italian, French",
+      "image":"https://cdn.mobygames.com/covers/10061740-fallout-new-vegas-ultimate-edition-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7/Vista/XP",
+        "processor" : "Dual Core 2.0GHz", 
+        "ram": "2 GB",
+        "video_card":"NVIDIA GeForce 6 series, ATI 1300XT series",
+        "direX": "9",
+        "hdd_space":"13 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/57/83/57834024-3927-4ea6-aa73-a060cf8b1f2b.jpg.240p.jpg","http://s01.riotpixels.net/data/2e/5c/2e5c1d5d-a05b-4fa6-8d2f-3a0a60644013.jpg.240p.jpg","http://s01.riotpixels.net/data/e7/ab/e7abfdc1-4237-4cb3-b49f-1cefd9f4ab3d.jpg.240p.jpg","http://s01.riotpixels.net/data/db/81/db812960-e0f3-4db4-800c-144254a61645.jpg.240p.jpg","http://s01.riotpixels.net/data/85/c4/85c4abea-5689-4f4f-925b-4770c76c0317.jpg.240p.jpg","http://s01.riotpixels.net/data/cb/13/cb134d94-1419-4b02-935a-1667476ba9af.jpg.240p.jpg"
+      ],
+       "description":"Welcome to Vegas. New Vegas.It’s the kind of town where you dig your own grave prior to being shot in the head and left for dead…and that’s before things really get ugly. It’s a town of dreamers and desperados being torn apart by warring factions vying for complete control of this desert oasis. It’s a place where the right kind of person with the right kind of weaponry can really make a name for themselves, and make more than an enemy or two along the way."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Mortal Shell",
+      "released_date": " August 18, 2020",
+      "genres": " RPG, Action RPG, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Cold Symmetry",
+      "rating": "65%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Russian, Polish",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/9449204-mortal-shell-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 SP1 x64 or newer",
+        "processor" : "Intel Core i5-4590 or AMD FX 8350", 
+        "ram": "8 GB",
+        "video_card":"NVIDIA GTX 970 or AMD Radeon R9 290",
+        "direX": "11",
+        "hdd_space":"14.9 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/96/98/96985a48-3db5-4fae-b99a-035556204880.jpg.240p.jpg","http://s01.riotpixels.net/data/fd/62/fd6272f9-96a7-4a0a-adf7-67aaa0ea7268.jpg.240p.jpg","http://s01.riotpixels.net/data/cf/0a/cf0a21cd-5967-4a08-9495-54ddfdc1b598.jpg.240p.jpg","http://s01.riotpixels.net/data/1e/5d/1e5d3e6c-1c36-4b85-9dd6-2bad60cd1d8d.jpg.240p.jpg","http://s01.riotpixels.net/data/59/98/5998fcea-4f95-4615-9b07-8508544d4d2e.jpg.240p.jpg","http://s01.riotpixels.net/data/0c/5a/0c5a31d9-9b54-4b6f-8475-7be2e55191b5.jpg.240p.jpg"
+      ],
+       "description":"Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. As the remains of humanity wither and rot, zealous foes fester in the ruins. They spare no mercy, with survival demanding superior awareness, precision and instincts. Track down hidden sanctums of devout followers and discover your true purpose."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Cities: Skylines II",
+      "released_date": " October 24, 2023",
+      "genres": "Managerial, Strategy, Isometric, 3D, Real-time",
+      "platforms": "PC",
+      "developer": "Colossal Order",
+      "rating": "52%",
+      "user_language": "English, French, Italian, German, Japanese, Korean, Polish, Russian, Simplified Chinese, Portuguese - Brazil, Traditional Chinese, Spanish - Spain",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/17762364-cities-skylines-ii-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 10 Home 64 Bit",
+        "processor" : "Intel® Core™ i7-6700K | AMD® Ryzen™ 5 2600X", 
+        "ram": "8 GB",
+        "video_card":"Nvidia® GeForce™ GTX 970 (4 GB) | AMD® Radeon™ RX 480 (8 GB)",
+        "direX": "11",
+        "hdd_space":"56.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/80/30/8030d05f-788f-4445-9e0f-f03ac26f6d4f.jpg.240p.jpg","http://s01.riotpixels.net/data/2e/d2/2ed26655-7fdf-4309-81c6-a55a64c407c0.jpg.240p.jpg","http://s01.riotpixels.net/data/ad/58/ad58d559-0949-426b-9226-cff32c93a758.jpg.240p.jpg","http://s01.riotpixels.net/data/e9/a1/e9a162c8-9887-4af1-854a-e46c3f1997a9.jpg.240p.jpg","http://s01.riotpixels.net/data/07/9a/079a29bb-fe54-47b4-b665-7cf06bc16333.jpg.240p.jpg","http://s01.riotpixels.net/data/f4/bb/f4bbeb50-dff4-4547-82c5-39da8fde8954.jpg.240p.jpg"
+      ],
+       "description":"Raise a city from the ground up and transform it into the thriving metropolis only you can imagine. You've never experienced building on this scale. With deep simulation and a living economy, Cities: Skylines II delivers world-building without limits."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "CRYMACHINA: Deluxe Edition",
+      "released_date": "October 24, 2023",
+      "genres": "Action, Adventure, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "FURYU Corporation",
+      "rating": "88%",
+      "user_language": "English, Japanese, Korean, Traditional Chinese",
+      "audio_language": "Japanese",
+      "image":"https://cdn.mobygames.com/covers/17764841-crymachina-playstation-4-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 7 (x64)",
+        "processor" : "Intel Core i5-2300 / AMD Ryzen 3 1200", 
+        "ram": "12 GB",
+        "video_card":"Nvidia GeForce GTX 1050 / AMD Radeon HD 7870",
+        "direX": "11",
+        "hdd_space":"9 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d7/bf/d7bf998e-2856-4582-8bdf-f995aa020c48.jpg.240p.jpg","http://s01.riotpixels.net/data/95/34/953407c7-6e59-49a0-837d-785459eb7821.jpg.240p.jpg","http://s01.riotpixels.net/data/27/46/27460340-24ce-4a9a-a96c-55ccf394602e.jpg.240p.jpg","http://s01.riotpixels.net/data/3b/93/3b93ddff-0f9e-4c6a-9791-3f72be963b25.jpg.240p.jpg","http://s01.riotpixels.net/data/67/ee/67ee690a-872d-459d-808a-bf47476f3840.jpg.240p.jpg","http://s01.riotpixels.net/data/ae/5c/ae5cdfb8-c598-4d30-aebe-079ff795dbf1.jpg.240p.jpg"
+      ],
+       "description":"CRYMACHINA is an action RPG where mechanical girls strive to survive in a post-apocalyptic world to become “Real Humans.” But what does it mean to be a “Real Human”?"
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "Kena: Bridge of Spirits (Digital Deluxe)",
       "released_date": "September 21, 2021 ~ September 27, 2022",
       "genres": "Action, Adventure, Third-person, 3D",
