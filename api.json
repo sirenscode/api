@@ -47,6 +47,79 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "Ghostrunner II",
+      "released_date": " 26 Oct, 2023",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "Free Range Games",
+      "rating": "87%",
+      "user_language": "English, French, Italian, Spanish - Spain, Arabic, Bulgarian, Dutch, Greek, Portuguese, Russian, Swedish, Ukrainian, German, Japanese, Korean, Simplified Chinese, Turkish, Hungarian, Polish",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/17772347-ghostrunner-ii-playstation-5-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i5-4590 (4 * 3300) or equivalent / AMD FX-8350 (4 * 4000) or equivalent", 
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 960 (4096 MB) / Radeon RX 480 (8192 MB) or Intel Arc A380 (8192 MB)",
+        "direX": "11",
+        "hdd_space":"67.5 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/9f/77/9f775f6e-2f2c-4619-94b0-b2d569161976.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.10.jpg","http://s01.riotpixels.net/data/bc/d9/bcd91d4e-fb68-46ab-bbf8-4f48c53684bd.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.9.jpg","http://s01.riotpixels.net/data/5f/e3/5fe3893d-00e4-4453-9017-0e0804126fe4.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.8.jpg","http://s01.riotpixels.net/data/3b/a2/3ba2b18b-38f9-42c6-b812-a360cf112ace.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.7.jpg","http://s01.riotpixels.net/data/2a/d8/2ad87395-3919-4c3c-ac65-ce250045a31c.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.6.jpg","http://s01.riotpixels.net/data/ef/2e/ef2ed92d-f01a-4ded-a467-bf3cc894a63b.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.5.jpg","http://s01.riotpixels.net/data/68/9e/689e1482-af29-4385-a60d-0d4a3091350c.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.3.jpg","http://s01.riotpixels.net/data/e0/d1/e0d1496e-39b2-4c1d-99f1-fc0dd4a86591.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.2.jpg","http://s01.riotpixels.net/data/6e/21/6e21c162-1881-4177-be4e-64fd4184947e.jpg.720p.jpg/screenshot.ghostrunner-2.1280x720.2023-10-26.1.jpg"
+      ],
+       "description":"Blood will run in the highly anticipated hardcore FPP slasher set one year after the events of Ghostrunner. Adventure through a post-apocalyptic cyberpunk future that takes place after the fall of the Keymaster, a tyrant who ruled over Dharma Tower, the last refuge of mankind. Jack is back to take on the violent AI cult that has assembled outside Dharma Tower and shape the future of humanity."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Lord of the Rings: Return to Moria",
+      "released_date": "24 Oct, 2023",
+      "genres": "Action, Adventure",
+      "platforms": "PC",
+      "developer": "Free Range Games",
+      "rating": "87%",
+      "user_language": "English, French, Italian, Spanish - Spain, Arabic, Bulgarian, Dutch, Greek, Portuguese, Russian, Swedish, Ukrainian, German, Japanese, Korean, Simplified Chinese, Turkish, Hungarian, Polish",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/17761209-the-lord-of-the-rings-return-to-moria-windows-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i5", 
+        "ram": "8 GB",
+        "video_card":"NVIDIA GeForce GTX 1060",
+        "direX": "12",
+        "hdd_space":"17.4 GB"
+      },
+      "screenshots":[
+        "https://cdn.mobygames.com/screenshots/17761213-the-lord-of-the-rings-return-to-moria-windows-.jpg","https://cdn.mobygames.com/screenshots/17761217-the-lord-of-the-rings-return-to-moria-windows-.jpg","https://cdn.mobygames.com/screenshots/17761221-the-lord-of-the-rings-return-to-moria-windows-.jpg","https://cdn.mobygames.com/screenshots/17761225-the-lord-of-the-rings-return-to-moria-windows-.jpg","https://cdn.mobygames.com/screenshots/17761229-the-lord-of-the-rings-return-to-moria-windows-.jpg","https://cdn.mobygames.com/screenshots/17761233-the-lord-of-the-rings-return-to-moria-windows-.jpg","https://cdn.mobygames.com/screenshots/17761237-the-lord-of-the-rings-return-to-moria-windows-.jpg"
+      ],
+       "description":"The Lord of the Rings: Return to Moria follows the Dwarves as they embark on a new adventure to reclaim their legendary home of Moria beneath the Misty Mountains. Players will join forces to survive, craft, build and explore the iconic, sprawling mines. Courageous expeditioners will need to be vigilant as mysterious dangers await"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Stray Souls",
+      "released_date": "25 Oct, 2023",
+      "genres": "Action, Adventure, Indie",
+      "platforms": "PC",
+      "developer": "Jukai Studio",
+      "rating": "87%",
+      "user_language": "English, French, Italian, Spanish - Spain, Arabic, Bulgarian, Dutch, Greek, Portuguese, Russian, Swedish, Ukrainian, German, Japanese, Korean, Simplified Chinese, Turkish, Hungarian, Polish",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/17768910-stray-souls-xbox-one-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel Core i5-4690K or AMD FX-8350", 
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 660, 4 GB or AMD Radeon R9 380, 4 GB",
+        "direX": "11",
+        "hdd_space":"40 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/55/17/5517cb60-e1cb-48be-aab4-42953818ad64.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.7.jpg","http://s01.riotpixels.net/data/2d/73/2d73c92f-d0ed-4621-af0d-cb5cdbd519df.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.6.jpg","http://s01.riotpixels.net/data/32/0a/320a53a1-dbf6-4f30-b930-f370a6892700.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.5.jpg","http://s01.riotpixels.net/data/3b/92/3b9232f6-d89e-4203-ac63-51726412c0de.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.4.jpg","http://s01.riotpixels.net/data/6f/56/6f56df28-d1dc-4ada-a63d-6d29ee93af00.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.3.jpg","http://s01.riotpixels.net/data/7a/63/7a63547f-c432-49b6-b85a-2ccd2d53bc64.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.2.jpg","http://s01.riotpixels.net/data/a2/d5/a2d53725-4fee-4951-9aec-925fea15e4ab.jpg.720p.jpg/screenshot.stray-souls.1280x720.2023-10-25.1.jpg"
+      ],
+       "description":"Enter a world of nightmares in this third person, action-horror, inspired by the classics of the genre. Fight terrifying creatures, solve mind-bending puzzles, and unravel a horrid family secret to expose the chilling truth behind your existence."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "Visage",
       "released_date": "October 30, 2020",
       "genres": "Exploration, Adventure, First-person, 3D",
