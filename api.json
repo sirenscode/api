@@ -47,6 +47,106 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "Kena: Bridge of Spirits (Digital Deluxe)",
+      "released_date": "September 21, 2021 ~ September 27, 2022",
+      "genres": "Action, Adventure, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Ember Lab",
+      "rating": "92%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Polish",
+      "audio_language": "English, Russian",
+      "image":"https://cdn.mobygames.com/covers/10492422-kena-bridge-of-spirits-digital-deluxe-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "AMD FX-6100/Intel i3-3220 or Equivalent", 
+        "ram": "12 GB",
+        "video_card":"AMD Radeon R7 360 2 GB/NVIDIA GeForce GTX 650 Ti 2 GB or Equivalent",
+        "direX": "11",
+        "hdd_space":"25.5 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/89/cb/89cb3cfd-b071-4b94-9225-ed17a285fa4c.jpg.240p.jpg","http://s01.riotpixels.net/data/3d/a4/3da498a3-b850-4327-8561-58b426eedbf0.jpg.240p.jpg","http://s01.riotpixels.net/data/56/6e/566e8d59-9174-4d4b-b2b9-b328829557b0.jpg.240p.jpg","http://s01.riotpixels.net/data/fa/c4/fac4bf99-48fa-4478-b7c0-bc6f27b11410.jpg.240p.jpg","http://s01.riotpixels.net/data/46/82/4682f1c8-489d-4a6a-9e56-b311213f00b4.jpg.240p.jpg","http://s01.riotpixels.net/data/0e/27/0e279a5b-3f31-454e-b324-c93d937ce177.jpg.240p.jpg"
+      ],
+       "description":"Kena: Bridge of Spirits: a story-driven, action adventure combining exploration with fast-paced combat. Untangle the past as Kena, a young Spirit Guide in search of the sacred Mountain Shrine. Help free the spirits trapped in a forgotten village with the help of the Rot, Kena's adorable (yet powerful) spirit companions."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "RoboCop: Rogue City - Alex Murphy Pack",
+      "released_date": "2 Nov, 2023",
+      "genres": " Action, Shooter, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Teyon",
+      "rating": "not enough reviews",
+      "user_language": " English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese, Simplified Chinese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17801236-robocop-rogue-city-alex-murphy-pack-playstation-5-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "Intel Core i7-4790 or Ryzen 5 2600", 
+        "ram": "16 GB",
+        "video_card":"NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB",
+        "direX": "12",
+        "hdd_space":"39.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/32/30/32308d9a-6dd4-4e6d-ab7b-e70faab466d8.jpg.240p.jpg","http://s01.riotpixels.net/data/8b/18/8b180118-46e4-4c55-aaf6-1101ecdfcf88.jpg.240p.jpg","http://s01.riotpixels.net/data/5f/1f/5f1f4c95-5ece-45d7-913f-a258b8d0d511.jpg.240p.jpg","http://s01.riotpixels.net/data/d1/fa/d1fa99e0-9f32-41ab-9513-a6f3ac0a43d1.jpg.240p.jpg","http://s01.riotpixels.net/data/ba/11/ba110990-58d8-4fc9-9f2f-8450196bfa51.jpg.240p.jpg","http://s01.riotpixels.net/data/d8/57/d8579fbf-7b57-4970-9992-577830ee7a43.jpg.240p.jpg"
+      ],
+       "description":"Become the legendary part man, part machine, all cop hero and bring justice to the dangerous, crime-ridden streets of Old Detroit. Uphold the law by any means necessary: With your powerful Auto-9 or one of the other 20 weapons available, eradicate criminals throughout this explosive first-person adventure. Your cyborg strength and cybernetic abilities can be upgraded as you progress, to make you an even more formidable law enforcement officer."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Achilles: Legends Untold",
+      "released_date": "2 Nov, 2023",
+      "genres": "Action, Indie, RPG",
+      "platforms": "PC",
+      "developer": "Dark Point Games",
+      "rating": "80%",
+      "user_language": "English, German, French, Russian, Italian, Portuguese - Brazil, Simplified Chinese, Greek",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/18126513-achilles-legends-untold-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "AMD Ryzen™ 3 1200 / Intel® Core™ i3-8100", 
+        "ram": "8 GB",
+        "video_card":" NVIDIA® GeForce® GTX 1050 4GB / AMD Radeon™ RX 560 4GB",
+        "direX": "11",
+        "hdd_space":"60 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d4/d6/d4d6f5a4-cca5-492a-b048-f3e36a7323d1.jpg.720p.jpg/screenshot.achilles-legends-untold.1127x720.2021-07-29.46.jpg","http://s01.riotpixels.net/data/51/de/51dec9fd-459a-4804-86d9-213399a7ee7f.jpg/screenshot.achilles-legends-untold.1920x1080.2021-07-29.45.jpg","http://s01.riotpixels.net/data/f1/32/f132b169-e761-46f7-96e9-c41c2e7a2e71.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.44.jpg","http://s01.riotpixels.net/data/1b/1b/1b1be85c-01da-437a-afad-35c0e9cefebe.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.43.jpg","http://s01.riotpixels.net/data/8e/a7/8ea771ba-175a-47aa-85b9-a1de331f0e16.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.42.jpg","http://s01.riotpixels.net/data/36/4a/364a1bf8-5079-452c-bac4-c98c4c944469.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.41.jpg","http://s01.riotpixels.net/data/0a/66/0a668297-7170-44c0-ad4e-1480328df04d.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.40.jpg","http://s01.riotpixels.net/data/f4/d2/f4d25a3e-2c27-41cc-92fb-206c77be5cb4.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.38.jpg","http://s01.riotpixels.net/data/b2/3a/b23ac828-e378-4408-8056-3a235d75ebb8.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.37.jpg","http://s01.riotpixels.net/data/ef/2e/ef2e01a5-c2cd-45ea-9623-5de9297e2da9.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.36.jpg","http://s01.riotpixels.net/data/e2/af/e2af0951-4d58-4de5-91d3-5b400e8b093c.jpg.720p.jpg/screenshot.achilles-legends-untold.1392x720.2021-07-29.35.jpg","http://s01.riotpixels.net/data/fa/b2/fab20008-ed1c-4f1a-ae01-301596eb2c3b.jpg.720p.jpg/screenshot.achilles-legends-untold.1280x720.2021-07-29.34.jpg","http://s01.riotpixels.net/data/62/24/62248427-6eef-4b32-ad06-1695623f07e6.jpg.720p.jpg/screenshot.achilles-legends-untold.1707x720.2021-07-29.33.jpg"
+      ],
+       "description":"Prepare for an legendary Action RPG with intense souls-like combat. Master blocking and dodging, explore vast open world with countless challenges. Rise stronger after setbacks, enhance attributes, acquire skills, wield blazing swords or a poisoned spear. Are you ready for unforgettable adventure?"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Enshrouded",
+      "released_date": "24 Jan, 2024",
+      "genres": "Action, Adventure, RPG, Early Access",
+      "platforms": "PC",
+      "developer": "Keen Games GmbH",
+      "rating": "80%",
+      "user_language": "English, German, French, Russian, Italian, Portuguese - Brazil, Simplified Chinese, Greek",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/18156007-enshrouded-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11 (X64)",
+        "processor" : "Intel Core i5-6400 (2.7 GHz 4 Core) / AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent", 
+        "ram": "16 GB",
+        "video_card":"NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM)",
+        "direX": "11",
+        "hdd_space":"60 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/0e/eb/0eeb4ae7-5764-4209-9cf1-9a249293ef2b.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.2.jpg","http://s01.riotpixels.net/data/58/83/5883775a-e442-4c3d-85a3-63dce2e31697.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.11.jpg","http://s01.riotpixels.net/data/ee/db/eedbeac7-245d-4b2f-a418-fd7ad12f560b.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.10.jpg","http://s01.riotpixels.net/data/f2/18/f2182495-ef94-42a6-8a4d-7cdb5c548c85.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.9.jpg","http://s01.riotpixels.net/data/5f/c8/5fc8f70a-726e-438a-927d-3d4b4cea333d.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.8.jpg","http://s01.riotpixels.net/data/99/4d/994d0aef-a2a9-42f5-9c2f-45670a80948a.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.5.jpg","http://s01.riotpixels.net/data/05/97/0597a6a9-99e2-4691-9540-ea486e9c1e5c.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.4.jpg","http://s01.riotpixels.net/data/d0/76/d076a626-6d29-4f51-8e40-925729d8afc4.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.3.jpg","http://s01.riotpixels.net/data/0e/eb/0eeb4ae7-5764-4209-9cf1-9a249293ef2b.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.2.jpg","http://s01.riotpixels.net/data/aa/12/aa1240f3-f2b7-44be-a263-9d67fe73115c.jpg/screenshot.enshrouded-world.1280x720.2017-09-05.1.jpg"
+      ],
+       "description":"You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "Empyrion: Galactic Survival",
       "released_date": "August 5, 2020",
       "genres": "Action, Shooter, Managerial, Open world, Third-person, 3D",
