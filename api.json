@@ -47,6 +47,78 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "Souls of Chronos: Digital Deluxe Edition",
+      "released_date": "October 17, 2023",
+      "genres": "Action, Adventure, RPG, Isometric, 2D",
+      "platforms": "PC",
+      "developer": "FUTU Studio",
+      "rating": "83%",
+      "user_language": "English, Japanese, Simplified Chinese, Traditional Chinese",
+      "Audio Language": "Chinese",
+      "image":"https://cdn.mobygames.com/covers/15577957-souls-of-chronos-playstation-5-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i3 CPU", 
+        "ram": "4 GB",
+        "video_card":"DirectX 11 compatible video card",
+        "direX": "11",
+        "hdd_space":"3.6 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/cd/4b/cd4b9f40-be85-4c52-baf9-f62bfeb612e4.jpg.240p.jpg","http://s01.riotpixels.net/data/b5/ed/b5ede106-ddac-444b-80de-d09764b4bd3c.jpg.240p.jpg","http://s01.riotpixels.net/data/55/8a/558ab20f-3263-4805-9a93-ca07e2d1240b.jpg.240p.jpg","http://s01.riotpixels.net/data/9a/22/9a2202e7-f5de-454a-9d74-67a0aa7b1102.jpg.240p.jpg","http://s01.riotpixels.net/data/c1/bd/c1bde032-7bc2-452b-9181-49548c9d67a9.jpg.240p.jpg","http://s01.riotpixels.net/data/fe/46/fe4608b1-e602-4fd1-ba4f-34babdf386d3.jpg.240p.jpg"
+      ],
+       "description":"In a poly-Apocalyptic world in turmoil, a young boy and a young girl crossed paths in the midst of a crisis... In the harbour town of Astella, the home of the legendary Seven, a lucky young boy, Sid, bonded with a special girl named Torii, or as people refer to her, a Chronus, in the nick of time when facing his impending death. While investigating a mysterious crime, the duo find themselves entangled in a vicious torrent that could completely shake up Astella's fragile peace..."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Sonic Superstars",
+      "released_date": "October 17, 2023",
+      "genres": "Action, Platform adventure, Side, 2D",
+      "platforms": "PC",
+      "developer": "SEGA",
+      "rating": "67%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian",
+      "Audio Language": "none",
+      "image":"https://cdn.mobygames.com/covers/17745351-sonic-superstars-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7/8/8.1/10 (x64)",
+        "processor" : "at least 4-cores i5", 
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce 970",
+        "direX": "11",
+        "hdd_space":"4.9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/71/8e/718e314b-f228-45a9-8293-9fea1702a674.jpg.240p.jpg","http://s01.riotpixels.net/data/1e/6b/1e6b7cb2-2eed-4dec-9d93-4ef918c2b784.jpg.240p.jpg","http://s01.riotpixels.net/data/3a/0f/3a0f2113-b13e-488b-a169-bcccb1fb5342.jpg.240p.jpg","http://s01.riotpixels.net/data/82/6a/826a5b83-f166-4900-8dd9-38373458985e.jpg.240p.jpg","http://s01.riotpixels.net/data/99/f8/99f85f42-6f7a-4026-a569-9a9fdaa48522.jpg.240p.jpg"
+      ],
+       "description":"Adventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming. Play as Sonic, Tails, Knuckles, and Amy and harness all-new Emerald powers to move and attack in dynamic new ways. Navigate gorgeous, never-before-seen environments solo or with up to 3 other players and stop Dr. Eggman, Fang, and a mysterious new adversary from converting the islands’ giant animals into Badniks before it’s too late!"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Bright Memory: Infinite - Ultimate Edition",
+      "released_date": "November 12, 2021",
+      "genres": "Action, Shooter, First-person, 3D",
+      "platforms": "PC",
+      "developer": "FYQD-Studio",
+      "rating": "92%",
+      "user_language": "English, French, Italian, German, Spanish - Latin America, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+      "Audio Language": "English, Japanese, Chinese",
+      "image":"https://cdn.mobygames.com/covers/10453868-bright-memory-infinite-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "INTEL E3-1230v2 / AMD FX-8350", 
+        "ram": "8 GB",
+        "video_card":"NVIDIA GTX960(4 GB)",
+        "direX": "11",
+        "hdd_space":"10.9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/75/82/75820a1c-8ba4-417a-945e-c833d3a700e5.jpg.240p.jpg","http://s01.riotpixels.net/data/e9/4f/e94feb54-b037-4312-a1b6-63e09ec8da22.jpg.240p.jpg","http://s01.riotpixels.net/data/a3/ab/a3aba082-58eb-4e5b-852a-daedbb54ba91.jpg.240p.jpg","http://s01.riotpixels.net/data/bb/46/bb46395f-635c-4bae-a1c6-c849faefb0b7.jpg.240p.jpg","http://s01.riotpixels.net/data/b1/df/b1dfbb4f-48e4-41e9-801b-f93850dab12d.jpg.240p.jpg","http://s01.riotpixels.net/data/10/5e/105ec862-a196-4e40-a931-e03335bfba3c.jpg.240p.jpg"
+      ],
+       "description":"In the year 2036, a strange phenomenon for which scientists can find no explanation has occurred in the skies around the world. The Supernatural Science Research Organization (SRO) has sent agents out to various regions to investigate this phenomenon. It is soon discovered that these strange occurrences are connected to an archaic mystery - an as-of-yet unknown history of two worlds, about to come to light..."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "Ghostrunner II",
       "released_date": " 26 Oct, 2023",
       "genres": "Action",
