@@ -2,6 +2,263 @@
   "latest_games": [
     {
       "update_date" : "November 28, 2023",
+      "title": "Berserk and the Band of the Hawk",
+      "released_date": " October 19, 2023",
+      "genres": "Lifestyle, First-person, 3D",
+      "platforms": "PC",
+      "developer": "MS GAMES, MK STUDIOS",
+      "rating": "68%",
+      "user_language": " English, French, German, Spanish - Spain, Portuguese - Brazil, Polish, Simplified Chinese",
+      "Audio Language": "English",
+      "image":"http://s01.riotpixels.net/data/02/9a/029a58fc-a9c8-4b7f-ae51-6a89664f4e0b.jpg.720p.jpg/cover.airportsim.480x720.2022-06-13.20.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "i5 CPU", 
+        "ram": "8 GB",
+        "video_card":"NVIDIA GeForce GTX1060",
+        "direX": "11",
+        "hdd_space":"6.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/7b/14/7b144921-2d28-49a3-8f05-16d461959bf3.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.45.jpg","http://s01.riotpixels.net/data/24/a1/24a1d84e-6f6e-4643-9e7c-d1e99856ecc3.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.44.jpg","http://s01.riotpixels.net/data/c2/bb/c2bbb2b6-5ae4-4730-b6bc-031d7675d37b.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.43.jpg","http://s01.riotpixels.net/data/fb/bf/fbbf4a27-c40a-48a2-9726-5e51f884c199.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.42.jpg","http://s01.riotpixels.net/data/ee/a9/eea90c77-6b1d-4499-947b-4e5fe1c3fe3d.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.41.jpg","http://s01.riotpixels.net/data/4f/8f/4f8f1b6a-f96c-404b-b4ad-03636c48bcf9.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.40.jpg","http://s01.riotpixels.net/data/09/21/0921d3e3-0c27-4a78-a809-a3eaf54c6353.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.39.jpg","http://s01.riotpixels.net/data/04/12/04127e2c-2fe7-4628-8c54-aa09f8f94732.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.38.jpg","http://s01.riotpixels.net/data/84/cb/84cb9aae-e194-4b05-a13d-9e762172cacf.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.37.jpg","http://s01.riotpixels.net/data/8e/ab/8eabbf79-cc8e-470d-91b6-07a2d65d3ecf.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.36.jpg","http://s01.riotpixels.net/data/10/6e/106e28b7-7dfc-4cd6-aa3c-e3b98ddaa7c0.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.35.jpg","http://s01.riotpixels.net/data/6e/d6/6ed60670-51f7-4257-a6c4-a3d5afc5eafd.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.34.jpg"
+      ],
+       "description":"AirportSim is an Advanced Airport Ground Handling Simulator with true-to-life visuals and operations, licensed planes and vehicles, real airports and live weather conditions. Enjoy the many tasks alone or with friends, making this experience unforgettable."
+    }
+
+
+
+  ],
+  "games":[
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Forza Horizon 5: Premium Edition",
+      "released_date": "October 19, 2023",
+      "genres": "Action, Adventure, Racing, Simulation, Sports",
+      "platforms": "PC",
+      "developer": "Playground Games",
+      "rating": "85%",
+      "user_language": "MULTi24",
+      "audio_language": "MULTi11",
+      "image":"https://cdn.mobygames.com/covers/10095777-forza-horizon-5-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 version 15063 and older",
+        "processor" : "Intel i5-4460 / AMD Ryzen 3 1200",
+        "ram": "8 GB",
+        "video_card":"NVidia GTX 970 / AMD RX 470, DirectX 12",
+        "direX": "11",
+        "hdd_space":"168 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/7e/01/7e01f1af-b3a7-4e06-a9ac-22ecb38067f5.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-08-24.27.jpg","http://s01.riotpixels.net/data/b2/f9/b2f935b1-a62b-472a-ae7f-2b000c34bdf9.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-08-24.26.jpg","http://s01.riotpixels.net/data/f6/52/f65245f0-e38b-4ec2-bfaf-276aad536508.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-08-24.24.jpg","http://s01.riotpixels.net/data/45/69/45699f2d-dbc4-4baf-8e29-7d261c814291.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-08-24.23.jpg","http://s01.riotpixels.net/data/45/69/45699f2d-dbc4-4baf-8e29-7d261c814291.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-08-24.23.jpg","http://s01.riotpixels.net/data/16/82/1682faae-04af-4e6a-a3ad-38604f0688cb.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-07-26.21.jpg","http://s01.riotpixels.net/data/dc/45/dc45e907-d021-47b1-8db4-7728f6516b89.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-07-26.20.jpg","http://s01.riotpixels.net/data/dc/45/dc45e907-d021-47b1-8db4-7728f6516b89.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-07-26.20.jpg","http://s01.riotpixels.net/data/7a/5e/7a5e8e14-e40e-4427-a502-d42f17df5a12.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-06-14.11.jpg","http://s01.riotpixels.net/data/fc/39/fc39eeaa-638c-495f-840e-4e8665f6c947.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-06-14.10.jpg","http://s01.riotpixels.net/data/fc/39/fc39eeaa-638c-495f-840e-4e8665f6c947.jpg.720p.jpg/screenshot.forza-horizon-5.1280x720.2021-06-14.10.jpg"
+      ],
+      "description":"Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "HOT WHEELS UNLEASHED 2: Turbocharged",
+      "released_date": "October 19, 2023",
+      "genres": "Arcade, Racing, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Milestone",
+      "rating": "85%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Indonesian",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Indonesian",
+      "image":"http://s01.riotpixels.net/data/cd/24/cd244598-328c-4dae-915f-915751083918.jpg.720p.jpg/artwork.battlefield-bad-company-2.1152x720.2011-06-03.660.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64 or later",
+        "processor" : "Intel Core i5-4590 / AMD FX-4350 or equivalent",
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 1050 / Radeon RX 460",
+        "direX": "11",
+        "hdd_space":"16.3 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/10/89/1089c764-0873-492e-b12f-3d2805212c2c.jpg.240p.jpg","http://s01.riotpixels.net/data/23/ed/23ed6aee-c944-4b0c-8442-03c025d2f298.jpg.240p.jpg","http://s01.riotpixels.net/data/e1/5b/e15b84c6-86d5-4410-a0a2-9c54d57a7491.jpg.240p.jpg","http://s01.riotpixels.net/data/4d/a7/4da75489-3779-4b5a-9bc3-81faf570ad97.jpg.240p.jpg","http://s01.riotpixels.net/data/db/fe/dbfe5b77-407d-4940-85df-415ff7ab5eaf.jpg.240p.jpg","http://s01.riotpixels.net/data/76/19/76193e84-c28f-405b-beb0-6dcea1ca5c39.jpg.240p.jpg"
+      ],
+      "description":"If you thought the first chapter was awesome, well, buckle up because we are going to blow you away with incredible new features!"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Battlefield: Hardline (Deluxe Edition)",
+      "released_date": "2 Mar, 2010",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "DICE",
+      "rating": "none",
+      "user_language": "MULTi9",
+      "audio_language": "none",
+      "image":"http://s01.riotpixels.net/data/cd/24/cd244598-328c-4dae-915f-915751083918.jpg.720p.jpg/artwork.battlefield-bad-company-2.1152x720.2011-06-03.660.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64 or later",
+        "processor" : "at least 4-cores i5",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce 970",
+        "direX": "11",
+        "hdd_space":"8 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d6/b4/d6b4b301-6d37-4b07-9da8-c4a73c727c9c.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.156.jpg","http://s01.riotpixels.net/data/c4/cb/c4cb78e8-0cd8-4111-8a81-485441b8efdc.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.155.jpg","http://s01.riotpixels.net/data/6e/87/6e876d5c-1a25-4b36-970b-1bd1e04dd4a0.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.154.jpg","http://s01.riotpixels.net/data/d4/7e/d47ec125-02c8-491d-9d62-b7bdd2cbf3dc.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.153.jpg","http://s01.riotpixels.net/data/f8/ea/f8ea1e3a-a2b4-4e12-809e-8b9506197527.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.152.jpg","http://s01.riotpixels.net/data/7e/2b/7e2b6fa3-7790-4e3f-b337-aa026b2a1754.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.151.jpg","http://s01.riotpixels.net/data/35/e2/35e29231-1416-4514-96cf-2e180097a518.png.720p.png/screenshot.battlefield-hardline.1152x720.2015-04-12.150.png","http://s01.riotpixels.net/data/d8/8b/d88bfddb-dcb0-4225-b192-7ce535249ddc.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.149.jpg","http://s01.riotpixels.net/data/12/79/1279028e-686a-49db-86f3-6845fd262676.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.148.jpg","http://s01.riotpixels.net/data/87/f9/87f90419-415f-4f1e-a68d-87454d20d2d1.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.147.jpg","http://s01.riotpixels.net/data/b8/df/b8dfe489-8e03-41f6-aaa5-b83b04f94e87.jpg.720p.jpg/screenshot.battlefield-hardline.1152x720.2015-04-12.146.jpg","http://s01.riotpixels.net/data/b0/4e/b04eb688-a71a-4fb4-8bf5-66824c36e17c.png.720p.png/screenshot.battlefield-hardline.1152x720.2015-04-12.145.png"
+      ],
+      "description":"Be the law or break the law in Battlefield™ Hardline. This action-packed blockbuster combines intense signature multiplayer moments of Battlefield with an emotionally charged story and setting reminiscent of a modern television crime drama."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Battlefield: Bad Company™ 2",
+      "released_date": "March 17, 2015",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "DICE",
+      "rating": "none",
+      "user_language": "MULTi2",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/3113139-battlefield-hardline-deluxe-edition-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64 or later",
+        "processor" : "at least 4-cores i5",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce 970",
+        "direX": "11",
+        "hdd_space":"49 GB"
+
+      },
+      "screenshots":[
+       "http://s01.riotpixels.net/data/43/7a/437ae4a3-fa3e-490f-93ca-990ec3a98a57.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1233.jpg","http://s01.riotpixels.net/data/7d/cb/7dcb186b-eff7-4f49-a697-0c8a80f445bd.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1232.jpg","http://s01.riotpixels.net/data/c0/56/c0564f64-0bf9-46d6-b56d-ef413894fa41.jpg/screenshot.battlefield-bad-company-2.1024x576.2011-06-10.1231.jpg","http://s01.riotpixels.net/data/cb/4b/cb4bfdf1-0017-4286-900d-d95a0b827369.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1230.jpg","http://s01.riotpixels.net/data/73/b5/73b567cd-0bd9-4426-a48f-ffda1c8750f8.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1229.jpg","http://s01.riotpixels.net/data/26/68/2668e6b0-72a6-4a81-87e2-7665b18a554c.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1228.jpg","http://s01.riotpixels.net/data/42/e3/42e3746a-c5d7-486e-b114-7f3ddd2f51e9.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1227.jpg","http://s01.riotpixels.net/data/63/16/63162513-ef99-4a49-9676-f5728b275d24.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1226.jpghttp://s01.riotpixels.net/data/63/16/63162513-ef99-4a49-9676-f5728b275d24.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1226.jpg","http://s01.riotpixels.net/data/63/2b/632b44fe-5147-47f5-a9aa-7989787f48e2.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1225.jpg","http://s01.riotpixels.net/data/25/96/25960645-1c71-4298-aa6f-1ef749a32f46.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1224.jpg","http://s01.riotpixels.net/data/45/af/45afe073-f690-4e09-9cd5-cb4ada5feecb.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1223.jpg","http://s01.riotpixels.net/data/db/a0/dba09bb7-89d3-4ce6-83b3-184f47b4e406.jpg/screenshot.battlefield-bad-company-2.1024x640.2011-06-10.1222.jpg"
+      ],
+      "description":"Battlefield: Bad Company 2™ brings the award-winning Battlefield gameplay to the forefront of PC gaming with best-in-class vehicular combat and unexpected “Battlefield moments.”"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Tomb Raider Game of The Year Edition",
+      "released_date": "November 2, 2018",
+      "genres": "RPG, Action RPG, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Blizzard Entertainment, Iron Galaxy Studios",
+      "rating": "eh, no, Switch has no Steam",
+      "user_language": "MULTi13",
+      "audio_language": "none",
+      "image":"https://telegra.ph/file/49fbf9098f518e3d0299f.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64 or later",
+        "processor" : "at least 4-cores i5",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce 970",
+        "direX": "11",
+        "hdd_space":"22 GB"
+
+      },
+      "screenshots":[
+        "https://blogger.googleusercontent.com/img/a/AVvXsEilgNlrYTRfT3J-YroWQR1Kqsd8i4MIBQ7pALysqJoaBUG9hX_JE04EVCoLneoeKkKr1nz-YKvsYLfUY7SwI16bfNCLEvKKUuVX3BmFp_IBv6S1JpEz9Gtz9PjWlxWWcwL_2WRKLVo83P2JVVqouljUkjIgu6bSNRfSP0nAJIQU0ud-0ts0jzjLqERPMQ=s2048","https://blogger.googleusercontent.com/img/a/AVvXsEhZaX4XhAsBQvtR7IwWtTNEojvt0Ag-OK-HA3Njpmv-uzFMgCUh9I3V4XAFHLoFFqT3Gr5tl2cvzoaDgKp1ksgI6KXlkPyjS3jzdlm2BYKZ0mRilGqD5d8VqE8C_AVpg8xSldOAjWxHyNWCNDJSnelvgfekNLfKuoFyI4BWjTaaw16gJhMyISw4mfcUUg=s1920","https://blogger.googleusercontent.com/img/a/AVvXsEho02MRmPPw5OD3ZqZy-Sp3Bu776kjZySgKr2uw0OIa8Gnm97kD2lPuHntZpGnH0LRj9x3mbVkECa83GL8Yo6-ZbrjdeDFPG2Ae0QKpPYTVfzYug6l7Skkqpof9aiuNn88tsH6LqX9SzFZHxDZm1WaeAx8CEnNG8K9rsgMLOnoFVKOH6ZQFOvJcpliG_Q=s1920","https://blogger.googleusercontent.com/img/a/AVvXsEizcSW2ZOFB6jvnlxQ-MNUrgUN3sKXR-FQI1CRCLbqK-HV-S6yY1KASGXdgfjOBiXDsLJikKAMyWyhS3hBFaDGvi7VCEGFoTmuEzk8b2tMwaCxuIWeCI1AFEp5G4zqShzhHQWz4jpoRsoKCFcRxJrFH9VqSolKwtVuEDAEuxL4hh_EyiC_sQPUoDT46Gw=s1920"
+      ],
+      "description":"The young archaeologist Lara Croft is traveling on the ship Endurance together with a crew to locate the prehistoric Japanese kingdom of Yamatai and the secrets of the Sun Queen Himiko and her mystical powers. Against the group's advice, Lara presses on to go to the Dragon's Triangle, a location plagued by mysterious storms. When the ship is struck by one of the storms, everyone is stranded on a seemingly desolate island. Lara's task is to bring the crew back together and find out more about the island. She has to fight off the Solarii, a cult led by a mysterious person who has taken an interest in Lara's friend Samantha Nishimura."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Diablo III: Eternal Collection",
+      "released_date": "November 2, 2018",
+      "genres": "RPG, Action RPG, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Blizzard Entertainment, Iron Galaxy Studios",
+      "rating": "eh, no, Switch has no Steam",
+      "user_language": "English, German, Spanish, Spanish (Latin America), French, Italian, Japanese, Korean, Portuguese (Brazilian), Russian, Polish, Chinese (Traditional), Chinese (Simplified)",
+      "audio_language": "English, German, Spanish, Spanish (Latin America), French, Italian, Japanese, Korean, Portuguese (Brazilian), Russian, Polish, Chinese (Traditional), Chinese (Simplified)",
+      "image":"https://cdn.mobygames.com/covers/2648520-diablo-iii-eternal-collection-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64 or later",
+        "processor" : "at least 4-cores i5",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce 970",
+        "direX": "11",
+        "hdd_space":"81.9 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/42/29/42298afa-73bf-4797-901d-790802395760.jpg.240p.jpg","http://s01.riotpixels.net/data/ed/91/ed91de64-ce6d-465c-ba19-3a808fa8e470.jpg.240p.jpg","http://s01.riotpixels.net/data/ed/f4/edf4095d-3b54-497e-8fa0-a5e1810c7b76.jpg.240p.jpg","http://s01.riotpixels.net/data/ed/f4/edf4095d-3b54-497e-8fa0-a5e1810c7b76.jpg.240p.jpg","http://s01.riotpixels.net/data/ec/82/ec82d810-163b-483e-b76d-bef067e370a7.jpg.240p.jpg","http://s01.riotpixels.net/data/6e/5e/6e5ef4f1-b6eb-499f-bad4-d2a976b6fc12.jpg.240p.jpg","http://s01.riotpixels.net/data/42/87/428785e1-648f-4c01-9790-9cb068ee6426.jpg.240p.jpg"
+      ],
+      "description":"Ages ago, angels and demons birthed your world in a forbidden union. Now they’ve come to claim it. Stand tall among Sanctuary’s meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Euro Truck Simulator 2",
+      "released_date": "October 18, 2023",
+      "genres": "Driving, Simulation, Open world, 3D",
+      "platforms": "PC",
+      "developer": "SCS Software",
+      "rating": "97%",
+      "user_language": "English, German... 42 (!) languages total",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/9355542-euro-truck-simulator-2-linux-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7",
+        "processor" : "Dual core CPU 2.4 GHz",
+        "ram": "4 GB",
+        "video_card":"GeForce GTS 450-class (Intel HD 4000)",
+        "direX": "9",
+        "hdd_space":"23 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d3/9c/d39c9cbb-35d7-4114-9615-d66382c46622.jpg.240p.jpg","http://s01.riotpixels.net/data/64/0b/640ba42e-e753-486d-a8d9-d90d5dbd6689.jpg.240p.jpg","http://s01.riotpixels.net/data/1d/15/1d15f269-3b15-4ea2-9a80-06c2ecfc5d97.jpg.240p.jpg","http://s01.riotpixels.net/data/fb/55/fb55cc2c-a580-428b-bf0e-2cac09acc747.jpg.240p.jpg","http://s01.riotpixels.net/data/a1/4b/a14badb0-07a9-4aad-9347-97818c585326.jpg.240p.jpg","http://s01.riotpixels.net/data/a9/b8/a9b825a0-39c1-4369-8b2e-6212b3de64a4.jpg.240p.jpg"
+      ],
+      "description":"Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits. If you’ve got what it takes to be part of an elite trucking force, get behind the wheel and prove it!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Pandemic Train",
+      "released_date": "October 18, 2023",
+      "genres": "Strategy, Survival, Post-apocalyptic, Isometric, Side, 3D",
+      "platforms": "PC",
+      "developer": "Trigger Labs",
+      "rating": "76%",
+      "user_language": "English, French, German, Spanish - Spain, Polish, Russian, Simplified Chinese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17741025-pandemic-train-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 64-bit",
+        "processor" : "Core i3 3.1 GHz / AMD Phenom II X3 2.8 GHz",
+        "ram": "4 GB",
+        "video_card":"GeForce GTX 560 (1 GB) / GeForce GTX 750 Ti (2 GB) / AMD equivalents",
+        "direX": "10",
+        "hdd_space":"12.5 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b1/24/b124541e-c966-4bb9-8907-2bba5d574041.jpg.240p.jpg","http://s01.riotpixels.net/data/2e/e4/2ee42f91-d11d-48c2-884b-4e51703f019d.jpg.240p.jpg","http://s01.riotpixels.net/data/36/7c/367cdcd1-f65b-4775-88d9-a834dbd36a50.jpg.240p.jpg","http://s01.riotpixels.net/data/69/67/6967f03f-4234-4ddd-b68d-18213ff84f0a.jpg.240p.jpg","http://s01.riotpixels.net/data/e9/74/e974e82b-2b0d-4c31-a3a6-a2446cedffd1.jpg.240p.jpg","http://s01.riotpixels.net/data/fb/97/fb97d308-32c9-44b2-af18-2cdbf7273784.jpg.240p.jpg"
+      ],
+      "description":"In Pandemic Train you are in charge of the crew aboard a train roaming the postapocalyptic wasteland, ravaged by both war and a deadly plague. Your goal is to survive long enough to discover the cure… or die trying. Humanity’s fate is in your hands! Start your journey now!"
+
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Galactic Civilizations IV: Supernova Edition",
+      "released_date": "April 26, 2022 / October 19, 2023",
+      "genres": "Strategy, 4X, Turn-based, Top-down, 3D",
+      "platforms": "PC",
+      "developer": "Stardock Entertainment",
+      "rating": "77%",
+      "user_language": "English, German, French, Russian, Spanish - Spain, Polish, Spanish - Latin America, Portuguese - Brazil, Portuguese - Portugal, Italian",
+      "audio_language": "English",
+      "image":"http://s01.riotpixels.net/data/3d/21/3d219042-0617-4f95-94a4-bf8bb047d01a.jpg.720p.jpg/wallpaper.galactic-civilizations-4.1280x720.2021-05-11.5.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 64-bit",
+        "processor" : "Any Quad-Core Processor CPU",
+        "ram": "8 GB",
+        "video_card":"Any 1 GB Video Card",
+        "direX": "11",
+        "hdd_space":"19.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/c3/59/c359b83a-60d9-4870-bc81-3615f0883886.jpg.240p.jpg","http://s01.riotpixels.net/data/2b/19/2b196d0e-9baa-4f5b-9fa0-355bff2b0e31.jpg.240p.jpg","http://s01.riotpixels.net/data/2d/11/2d1100c1-1e9b-45ba-8f65-39cc0194624b.jpg.240p.jpg","http://s01.riotpixels.net/data/e6/dc/e6dc7d4d-35e3-44d6-905f-8de3b79ec85b.jpg.240p.jpg","http://s01.riotpixels.net/data/54/89/5489ee94-12af-4b68-9536-7ed82ad97478.jpg.240p.jpg","http://s01.riotpixels.net/data/54/4c/544c335e-44e4-4228-bcbc-9bce3647c9dc.jpg.240p.jpg"
+      ],
+      "description":"Prepare yourself to explore the galaxy, research new technologies, meet new alien civilizations and develop a galactic civilization that will pass the test of time. As leader of a fledgling interstellar species, it’s up to you to guide your people to develop new worlds, construct new kinds of starships and fight wars to ensure your civilization survives in what is often a hostile universe."
+
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "TEKKEN 8",
       "released_date": "January 26, 2024",
       "genres": "Arcade, Fighting, Side, 3D, Japanese",
@@ -26,25 +283,54 @@
       "description":"32 FIGHTERS FOR A NEW GENERATION Completely redesigned character visuals. Elaborate, highly-detailed models built from the ground and high-fidelity graphics break the limits of new-generation hardware by adding a new weight and atmosphere to TEKKEN’s signature battles. Vivid environments and destructible stages combine to create an overwhelming sense of immersion, creating the ultimate play experience."
 
     },
-    
-    
-    
-    
     {
-      "title": "Call of Duty: Warzone",
-      "releaseYear": 2020,
-      "platforms": ["PlayStation", "Xbox", "PC"],
-      "modes": ["Battle Royale", "Plunder"],
-      "rating": 4.6,
-      "description": "Call of Duty: Warzone is a free-to-play battle royale game...",
-      "screenshots": [
-        "screenshots/warzone_1.jpg",
-        "screenshots/warzone_2.jpg",
-        "screenshots/warzone_3.jpg"
-      ]
-    }
-  ],
-  "games":[
+      "update_date" : "November 28, 2023",
+      "title": "Berserk and the Band of the Hawk",
+      "released_date": "Feb 21, 2017",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "Omega Force",
+      "rating": "97%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Korean, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese",
+      "Audio Language": "English, French, German",
+      "image":"https://cdn.mobygames.com/covers/3112693-berserk-and-the-band-of-the-hawk-ps-vita-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i3", 
+        "ram": "6 GB",
+        "video_card":"Geforce 640",
+        "direX": "11",
+        "hdd_space":"10.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/68/8b/688b365c-7e39-4a00-97b3-76d31f0607f9.jpg.240p.jpg","http://s01.riotpixels.net/data/9e/db/9edba7c9-2d9a-4456-8db5-be75b36edc87.jpg.240p.jpg","http://s01.riotpixels.net/data/bc/09/bc096dd3-0ad7-49ab-9b6e-480dff736585.jpg.240p.jpg","http://s01.riotpixels.net/data/9f/f2/9ff268c0-795f-4854-b898-36f0a712e728.jpg.240p.jpg","http://s01.riotpixels.net/data/64/eb/64ebe625-8308-410d-82b9-befb32137e6b.jpg.240p.jpg","http://s01.riotpixels.net/data/f9/2b/f92bdb60-3931-4280-8144-ed70e68609c5.jpg.240p.jpg"
+      ],
+       "description":"The action of cutting through hundreds of enemies, fundamental to the Warriors series, is fused together with the dark and gruesome atmosphere of the world of “Berserk”, making various heretofore unseen acts possible, such as using a giant man-sized sword to cut enemies in half, as well as smash or send them flying with the “Slash” and “Smash” actions."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Agatha Christie: Murder on the Orient Express - Deluxe Edition",
+      "released_date": "October 19, 2023",
+      "genres": "Adventure, Third-Person, 3D",
+      "platforms": "PC",
+      "developer": "Microids Studio Lyon",
+      "rating": "97%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Korean, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese",
+      "Audio Language": "English, French, German",
+      "image":"https://telegra.ph/file/4d74d5827e274a2f97438.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i3", 
+        "ram": "6 GB",
+        "video_card":"Geforce 640",
+        "direX": "11",
+        "hdd_space":"21.1 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/5f/3d/5f3d0c6e-3481-4339-9677-5521234c62fd.jpg.240p.jpg","http://s01.riotpixels.net/data/b1/5e/b15e8c0f-b3ff-4da7-bf03-b36900534b8f.jpg.240p.jpg","http://s01.riotpixels.net/data/b4/ce/b4ce086e-80f3-483a-8d87-668a3440d298.jpg.240p.jpg","http://s01.riotpixels.net/data/b3/75/b375a06e-fd56-4fda-94d9-20e3e52adf59.jpg.240p.jpg","http://s01.riotpixels.net/data/fe/91/fe9122dd-35d8-417a-bf79-9233f4dc345e.jpg.240p.jpg","http://s01.riotpixels.net/data/c1/86/c186cb40-493d-4880-ada1-53423977133b.jpg.240p.jpg"
+      ],
+       "description":"Discover a modernized and revisited version of the Agatha Christie's classic. Set in 2023, Murder on the Orient Express brings the classic tale to life in a way that will surprise even the most dedicated fans. With brand-new elements added to the original story, experience the mystery and suspense like never before and rediscover one of the most famous case of Hercule Poirot."
+    },
     {
       "update_date" : "November 28, 2023",
       "title": "Souls of Chronos: Digital Deluxe Edition",
