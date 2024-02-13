@@ -2,6 +2,83 @@
   "latest_games": [
     {
       "update_date" : "November 28, 2023",
+      "title": "Forza Motorsport: Premium Edition ",
+      "released_date": "10 Oct, 2023",
+      "genres": "Racing",
+      "platforms": "PC",
+      "developer": "Turn 10",
+      "rating": "69%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Arabic, Japanese, Korean, Portuguese - Brazil, Polish, Simplified Chinese, Traditional Chinese",
+      "audio_language": "English, French, Italian, German, Spanish, Spanish - Latin America, Portuguese - Brazil",
+      "image":"https://cdn.mobygames.com/covers/11077619-gotham-knights-playstation-5-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 version 19041 or higher",
+        "processor" : "Intel i5-8400 or AMD Ryzen 5 1600",
+        "ram": "8 GB",
+        "video_card":"NVidia GTX 1060 or AMD RX 5500 XT",
+        "direX": "11",
+        "hdd_space":"130 GB"
+      },
+      "screenshots":[
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_dbcbbb8f3bea80667224c95fc70a69f9894e86fb.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_aca0e1a161467bcf91d3c320430509b3a85f9e09.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_9dfd83e0b0fcefca714fb49e4da48886619fa9e2.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_fd78b7798a8bc66f554da67f756d26e13727d3a8.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_b87f8ef2e694903db8a082fafecbdd5b2fb9fffe.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_3378113863dc31286d3e3c397a055e9d4916e072.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_794544aa55532dbb6b34ae2e67b487009622fb2d.jpg","https://cdn.cloudflare.steamstatic.com/steam/apps/2440510/ss_44722285a5c11a9ae809e15fec94b4196938ff27.jpg"
+      ],
+      "description":"Out-build the competition in the all-new career. Race your friends in adjudicated multiplayer events. Compete in over 500 cars on world-famous tracks with cutting edge AI, advanced physics, and tire and fuel strategy. PLAY UP TO 5 DAYS EARLY WITH THE PREMIUM EDITION"
+    }
+
+
+
+  ],
+  "games":[
+    {
+      "update_date" : "November 28, 2023",
+      "title": "The Last Oricru: Final Cut",
+      "released_date": "October 13, 2022",
+      "genres": "Action, RPG, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "GoldKnights",
+      "rating": "67%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Czech, Japanese, Korean, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/11059963-the-last-oricru-playstation-5-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (x64)",
+        "processor" : "Intel Core i5-7400 @3.00 GHz / AMD FX-8320E Eight-Core", 
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 960 (4 GB) / Radeon RX 560 (4 GB)",
+        "direX": "11",
+        "hdd_space":"25.6 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/ee/e2/eee2ab9a-87ae-4ece-926e-cede06c15fbb.jpg.240p.jpg","http://s01.riotpixels.net/data/89/d3/89d36751-518c-4f1c-b8e1-dd03c3cea62e.jpg.240p.jpg","http://s01.riotpixels.net/data/c0/da/c0dad6f6-64ef-4884-a456-daf971657f5c.jpg.240p.jpg","http://s01.riotpixels.net/data/60/a6/60a6272f-3e28-40c3-b9a9-5b20c028a277.jpg.240p.jpg","http://s01.riotpixels.net/data/58/81/5881096a-8bda-4f0a-a86a-544f1d7f2abf.jpg.240p.jpg","http://s01.riotpixels.net/data/10/f6/10f6f765-1312-49d3-87af-2854b487131b.jpg.240p.jpg"
+      ],
+       "description":"The Last Oricru is a story-driven action RPG, that puts you in the middle of an ongoing conflict between two races, on a partly terraformed planet, isolated from outer space by a protective barrier. Your decisions will bring interesting twists into the gameplay, as you can heavily influence the conflict and its outcome. You will experience hundreds of intense fights in a brutal medieval meets sci-fi world, where every decision has its consequences. Level up your hero, improve your skills before facing one of many boss fights and get ready for an unprecedented amount of possibilities."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": " The Lamplighters League",
+      "released_date": " October 19, 2023",
+      "genres": "Adventure, RPG, Strategy",
+      "platforms": "PC",
+      "developer": "Harebrained Schemes",
+      "rating": "68%",
+      "user_language": " English, French, German, Spanish - Spain, Portuguese - Brazil, Polish, Simplified Chinese",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/17694275-the-lamplighters-league-windows-apps-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows® 10 / 11",
+        "processor" : "Intel® Core™ i5-3570K or AMD® Ryzen™ 3 2300X", 
+        "ram": "8 GB",
+        "video_card":"AMD® Radeon™ R9 380 (4GB) or Nvidia® GeForce™ GTX 950 (2GB)",
+        "direX": "11",
+        "hdd_space":"16.6 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/7b/14/7b144921-2d28-49a3-8f05-16d461959bf3.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.45.jpg","http://s01.riotpixels.net/data/24/a1/24a1d84e-6f6e-4643-9e7c-d1e99856ecc3.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.44.jpg","http://s01.riotpixels.net/data/c2/bb/c2bbb2b6-5ae4-4730-b6bc-031d7675d37b.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.43.jpg","http://s01.riotpixels.net/data/fb/bf/fbbf4a27-c40a-48a2-9726-5e51f884c199.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.42.jpg","http://s01.riotpixels.net/data/ee/a9/eea90c77-6b1d-4499-947b-4e5fe1c3fe3d.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.41.jpg","http://s01.riotpixels.net/data/4f/8f/4f8f1b6a-f96c-404b-b4ad-03636c48bcf9.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.40.jpg","http://s01.riotpixels.net/data/09/21/0921d3e3-0c27-4a78-a809-a3eaf54c6353.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.39.jpg","http://s01.riotpixels.net/data/04/12/04127e2c-2fe7-4628-8c54-aa09f8f94732.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.38.jpg","http://s01.riotpixels.net/data/84/cb/84cb9aae-e194-4b05-a13d-9e762172cacf.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.37.jpg","http://s01.riotpixels.net/data/8e/ab/8eabbf79-cc8e-470d-91b6-07a2d65d3ecf.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.36.jpg","http://s01.riotpixels.net/data/10/6e/106e28b7-7dfc-4cd6-aa3c-e3b98ddaa7c0.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.35.jpg","http://s01.riotpixels.net/data/6e/d6/6ed60670-51f7-4257-a6c4-a3d5afc5eafd.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.34.jpg"
+      ],
+       "description":"Recruit a team of misfits with unique abilities and unforgettable personalities, and chase the Banished Court to the ends of the earth in a mix of real-time infiltration, turn-based tactical combat, and a character-driven story of adventure and intrigue."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "AirportSim",
       "released_date": " October 19, 2023",
       "genres": "Lifestyle, First-person, 3D",
@@ -23,12 +100,7 @@
         "http://s01.riotpixels.net/data/7b/14/7b144921-2d28-49a3-8f05-16d461959bf3.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.45.jpg","http://s01.riotpixels.net/data/24/a1/24a1d84e-6f6e-4643-9e7c-d1e99856ecc3.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.44.jpg","http://s01.riotpixels.net/data/c2/bb/c2bbb2b6-5ae4-4730-b6bc-031d7675d37b.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.43.jpg","http://s01.riotpixels.net/data/fb/bf/fbbf4a27-c40a-48a2-9726-5e51f884c199.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.42.jpg","http://s01.riotpixels.net/data/ee/a9/eea90c77-6b1d-4499-947b-4e5fe1c3fe3d.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.41.jpg","http://s01.riotpixels.net/data/4f/8f/4f8f1b6a-f96c-404b-b4ad-03636c48bcf9.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.40.jpg","http://s01.riotpixels.net/data/09/21/0921d3e3-0c27-4a78-a809-a3eaf54c6353.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.39.jpg","http://s01.riotpixels.net/data/04/12/04127e2c-2fe7-4628-8c54-aa09f8f94732.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.38.jpg","http://s01.riotpixels.net/data/84/cb/84cb9aae-e194-4b05-a13d-9e762172cacf.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.37.jpg","http://s01.riotpixels.net/data/8e/ab/8eabbf79-cc8e-470d-91b6-07a2d65d3ecf.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.36.jpg","http://s01.riotpixels.net/data/10/6e/106e28b7-7dfc-4cd6-aa3c-e3b98ddaa7c0.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.35.jpg","http://s01.riotpixels.net/data/6e/d6/6ed60670-51f7-4257-a6c4-a3d5afc5eafd.jpg.720p.jpg/screenshot.airportsim.1280x720.2023-10-22.34.jpg"
       ],
        "description":"AirportSim is an Advanced Airport Ground Handling Simulator with true-to-life visuals and operations, licensed planes and vehicles, real airports and live weather conditions. Enjoy the many tasks alone or with friends, making this experience unforgettable."
-    }
-
-
-
-  ],
-  "games":[
+    },
     {
       "update_date" : "November 28, 2023",
       "title": "Gotham Knights: Deluxe Edition",
