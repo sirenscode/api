@@ -31,6 +31,269 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "Star Trek: Infinite",
+      "released_date": "12 Oct, 2023",
+      "genres": "Adventure, Simulation, Strategy",
+      "platforms": "PC",
+      "developer": "Nimble Giant Entertainment",
+      "rating": "89%",
+      "user_language": "English, Spanish",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+      "image":"https://cdn.mobygames.com/covers/17720706-star-trek-infinite-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7 / 10 / 11",
+        "processor" : "Intel® iCore™ i3-530 or AMD® FX-6350",
+        "ram": "4 GB",
+        "video_card":" Nvidia® GeForce™ GTX 460 or AMD® ATI Radeon™ HD 5870 (1GB VRAM), or AMD® Radeon™ RX Vega 11 or Intel® HD Graphics 4600",
+        "direX": "9.0c",
+        "hdd_space":"15.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/73/37/73374d70-e531-47b0-bfcd-497cfcc9d2bd.jpg.720p.jpg/screenshot.star-trek-infinite.1280x720.2023-10-12.46.jpg","http://s01.riotpixels.net/data/8b/a2/8ba2b5fc-922e-4353-b1f1-2455b3df4081.jpg.720p.jpg/screenshot.star-trek-infinite.1280x720.2023-10-12.45.jpg","http://s01.riotpixels.net/data/a9/91/a991bc9a-7120-486c-9215-63576b2211c7.jpg.720p.jpg/screenshot.star-trek-infinite.1280x720.2023-10-12.44.jpg","http://s01.riotpixels.net/data/dd/d3/ddd3571d-5a9d-4c6d-a25e-891166d52dd6.jpg.720p.jpg/screenshot.star-trek-infinite.1280x720.2023-10-12.43.jpg","http://s01.riotpixels.net/data/e6/fd/e6fd7d23-1aa4-458e-bcb5-6288b50654e7.jpg.720p.jpg/screenshot.star-trek-infinite.1280x720.2023-10-12.42.jpg"
+      ],
+      "description":"Star Trek: Infinite is a grand strategy experience that lets you play your own Star Trek story as the leader of one of four major factions in the galaxy. Follow the specially crafted story or blaze your own trail in the first Star Trek grand strategy game."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Hearts of Iron IV",
+      "released_date": "6 Jun, 2016",
+      "genres": "Simulation, Strategy",
+      "platforms": "PC",
+      "developer": "Paradox Development Studio",
+      "rating": "89%",
+      "user_language": "English, Spanish",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+      "image":"https://cdn.mobygames.com/covers/1567047-hearts-of-iron-iv-windows-manual.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7 / 10 / 11",
+        "processor" : "Intel® Core™ i5 750 | AMD® FX 4300",
+        "ram": "4 GB",
+        "video_card":"Nvidia® GeForce™ GTX 470 (1.28GB) | AMD® HD 5850 (1GB) | Intel Iris Xe G7 (Tiger Lake) | AMD® Radeon™ RX Vega 11 | Steam Deck",
+        "direX": "9.0c",
+        "hdd_space":"8 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b1/f3/b1f3e524-103c-4cee-9586-68f4eb95a959.jpg.720p.jpg/screenshot.hearts-of-iron-4-by-blood-alone.1280x720.2022-06-08.5.jpg","http://s01.riotpixels.net/data/22/f8/22f8ba07-a060-4548-8396-712b58b0c31a.jpg.720p.jpg/screenshot.hearts-of-iron-4-by-blood-alone.1280x720.2022-06-08.4.jpg","http://s01.riotpixels.net/data/cb/07/cb07fb3e-7590-4277-bcd5-b1d6074624f3.jpg.720p.jpg/screenshot.hearts-of-iron-4-by-blood-alone.1280x720.2022-06-08.3.jpg","http://s01.riotpixels.net/data/ca/47/ca4780a8-db62-4e1c-87b2-5e1e6ab43453.jpg.720p.jpg/screenshot.hearts-of-iron-4-by-blood-alone.1280x720.2022-06-08.2.jpg","http://s01.riotpixels.net/data/69/ea/69ea36ad-9983-4842-ac5c-4c2dada09e53.jpg.720p.jpg/screenshot.hearts-of-iron-4-by-blood-alone.1280x720.2022-06-08.1.jpg"      ],
+      "description":"Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Grand Theft Auto: San Andreas",
+      "released_date": "6 Jun, 2005",
+      "genres": "Action, shooter, Driving, Racing",
+      "platforms": "PC",
+      "developer": "Rockstar Games",
+      "rating": "89%",
+      "user_language": "English, Spanish",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+      "image":"https://cdn.mobygames.com/covers/6412380-grand-theft-auto-san-andreas-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Not much Specs",
+        "ram": "4 GB",
+        "video_card":"Not much Specs",
+        "direX": "11",
+        "hdd_space":"9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/a0/7d/a07d94e1-e0d6-42f7-bfa4-7951a9a004e6.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.36.png","http://s01.riotpixels.net/data/a7/e8/a7e86ec1-a694-41d4-8692-4cab1292c316.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.35.png","http://s01.riotpixels.net/data/f1/b5/f1b5f9fa-3e5b-4173-9f98-3443993df39b.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.34.png","http://s01.riotpixels.net/data/17/10/17109c2b-949f-4ae7-83c1-b8e9f4732257.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.33.png","http://s01.riotpixels.net/data/ff/03/ff03d007-6abb-46aa-90dd-df003ee5142b.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.32.png","http://s01.riotpixels.net/data/18/69/18690384-3905-49e2-8c2f-d5d7558c057f.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.31.png","http://s01.riotpixels.net/data/1c/c4/1cc49cd7-51a2-40ae-b2a7-5885caab4ddc.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.30.png","http://s01.riotpixels.net/data/cd/de/cdde7693-ba7d-4d93-a482-d6bd7a26617e.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.29.png","http://s01.riotpixels.net/data/49/03/4903b55b-f032-4e60-ada4-69dd3a0df2d1.jpg/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.28.jpg","http://s01.riotpixels.net/data/01/98/0198b7b6-e772-40ae-9db5-84eae8bbe966.png/screenshot.grand-theft-auto-san-andreas.1136x640.2013-12-13.27.png"
+      ],
+      "description":"Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas… a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Convergence: A League of Legends Story",
+      "released_date": "May 23, 2023",
+      "genres": "Arcade, Jump and run, Side, 2D",
+      "platforms": "PC",
+      "developer": " Double Stallion Games",
+      "rating": "89%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Vietnamese",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+      "image":"https://cdn.mobygames.com/covers/17123569-convergence-a-league-of-legends-story-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i5-2300 @2.80 GHz (4 cores), AMD FX-4350 @4.20 GHz (4 cores)",
+        "ram": "4 GB",
+        "video_card":"GeForce GTX 550 Ti (1 GB), Radeon HD 5770 (1 GB), Intel UHD Graphics 730",
+        "direX": "11",
+        "hdd_space":"4.3 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b2/67/b267e703-a5f0-4f66-a7bc-6752ed5fcd46.jpg.240p.jpg","http://s01.riotpixels.net/data/5b/cf/5bcf41ea-2199-4b11-ae83-f7ecb6297fd7.jpg.240p.jpg","http://s01.riotpixels.net/data/e4/f6/e4f60a98-f1d6-47b0-a8f3-6211d58c6d7f.jpg.240p.jpg","http://s01.riotpixels.net/data/e4/f6/e4f60a98-f1d6-47b0-a8f3-6211d58c6d7f.jpg.240p.jpg","http://s01.riotpixels.net/data/e4/f6/e4f60a98-f1d6-47b0-a8f3-6211d58c6d7f.jpg.240p.jpg","http://s01.riotpixels.net/data/e4/f6/e4f60a98-f1d6-47b0-a8f3-6211d58c6d7f.jpg.240p.jpg"
+      ],
+      "description":"Traverse the sprawling city of Zaun as Ekko, a young inventor with a device to rewind time. He and his friends must work together to keep their city safe, but as danger looms and secrets come to light, Ekko realizes he can’t trust anyone—not even himself."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Silent Hunter 5: Battle of the Atlantic",
+      "released_date": " March 4, 2010",
+      "genres": "Action, Simulation, Strategy / tactics",
+      "platforms": "PC",
+      "developer": "Ubisoft SRL",
+      "rating": "60%",
+      "user_language": "English, French, Italian, German, Spanish, Polish, Russian",
+      "audio_language": "English, German, Russian",
+      "image":"https://cdn.mobygames.com/covers/6193234-silent-hunter-5-battle-of-the-atlantic-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 or later",
+        "processor" : " 64-bit processor",
+        "ram": "8 GB",
+        "video_card":"Dedicated GPU",
+        "direX": "11",
+        "hdd_space":"3710 MB"
+      },
+      "screenshots":[
+        "https://cdn.mobygames.com/screenshots/60946-silent-hunter-5-battle-of-the-atlantic-windows-main-menu.jpg","https://cdn.mobygames.com/screenshots/11525550-silent-hunter-5-battle-of-the-atlantic-windows-loading-screen.jpg","https://cdn.mobygames.com/screenshots/11524943-silent-hunter-5-battle-of-the-atlantic-windows-i-guess-that-dest.jpg","https://cdn.mobygames.com/screenshots/11524919-silent-hunter-5-battle-of-the-atlantic-windows-boom-that-torpedo.jpg","https://cdn.mobygames.com/screenshots/11525559-silent-hunter-5-battle-of-the-atlantic-windows-another-torpedo-h.jpg","https://cdn.mobygames.com/screenshots/11525535-silent-hunter-5-battle-of-the-atlantic-windows-the-engine-room-a.jpg","https://cdn.mobygames.com/screenshots/11525565-silent-hunter-5-battle-of-the-atlantic-windows-plotting-a-course.jpg","https://cdn.mobygames.com/screenshots/11525544-silent-hunter-5-battle-of-the-atlantic-windows-a-german-destroye.jpg"
+      ],
+      "description":"Silent Hunter 5 takes players behind the periscope of a German Type VII U-boat to take on the Allied Forces in battles across the Atlantic Ocean and Mediterranean Sea. Players command the U-boat after the first captain, Rahn, departs for another submarine."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Gunner, HEAT, PC!",
+      "released_date": " 27 Oct, 2015",
+      "genres": "RPG, Open world, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Larian Studios",
+      "rating": "95%",
+      "user_language": "English, French, German, Russian, Polish, Spanish - Spain, Spanish - Latin America, Japanese, Simplified Chinese, Traditional Chinese, Italian, Korean, Czech, Portuguese Brazil",
+      "audio_language": "English, Russian (Acts I + II, fan-made)",
+      "image":"https://cdn.mobygames.com/covers/6653687-gunner-heat-pc-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 or later",
+        "processor" : " 64-bit processor",
+        "ram": "8 GB",
+        "video_card":"Dedicated GPU",
+        "direX": "11",
+        "hdd_space":"10 GB"
+      },
+      "screenshots":[
+        "https://www.barreldrill.com/wp-content/uploads/2022/06/20220614193607_1.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614193607_1.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614192305_1-768x432.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614194957_1-768x432.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614193605_1-768x432.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614192923_1-768x432.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614194949_1-768x432.jpg","https://www.barreldrill.com/wp-content/uploads/2022/06/20220614193236_1-768x432.jpg"
+      ],
+      "description":"It’s a weird time for fans of modern tank combat games. The straight-shooting simulator titles from the turn of the millennium are no more. As tank nerds, we need a game that gets right to the good stuff – modern tanks, realistic system and damage models, and a focus on fun over all."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Divinity: Original Sin - Enhanced Edition",
+      "released_date": " 27 Oct, 2015",
+      "genres": "RPG, Open world, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Larian Studios",
+      "rating": "95%",
+      "user_language": "English, French, German, Russian, Polish, Spanish - Spain, Spanish - Latin America, Japanese, Simplified Chinese, Traditional Chinese, Italian, Korean, Czech, Portuguese Brazil",
+      "audio_language": "English, Russian (Acts I + II, fan-made)",
+      "image":"https://cdn.mobygames.com/covers/8275890-divinity-original-sin-enhanced-edition-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 10 64-bit",
+        "processor" : "Intel Core i5 or equivalent",
+        "ram": "4 GB",
+        "video_card":"DirectX 10 compatible with 512MB RAM",
+        "direX": "11",
+        "hdd_space":"10 GB"
+      },
+      "screenshots":[
+        "https://1.bp.blogspot.com/-QC6pP56WQ2s/X3phAHyZYnI/AAAAAAABDUo/i6089yOTJFwh7YO2xs1soGqKURqgpN63QCLcBGAsYHQ/s1920/divinity-original-sin-enhanced-edition-pc-screenshot-1.jpg","https://1.bp.blogspot.com/-Y1LpJ9JKlTc/X3pg_cxFWjI/AAAAAAABDUk/zkn6YLaejWA6t0b5nBA09FCrHAgUJSGbwCLcBGAsYHQ/s1920/divinity-original-sin-enhanced-edition-pc-screenshot-2.jpg","https://1.bp.blogspot.com/--anzwgLmtk0/X3phCsoSOkI/AAAAAAABDUs/RTzAldQq6SccAZirLHCyGm-kbC55pO2KgCLcBGAsYHQ/s1920/divinity-original-sin-enhanced-edition-pc-screenshot-3.jpg","https://1.bp.blogspot.com/-ZKWMz5tDZ0w/X3phDKln-0I/AAAAAAABDUw/XpIZvbeeu1EZJeq1tOkgjxK3vhqo4U1qgCLcBGAsYHQ/s1920/divinity-original-sin-enhanced-edition-pc-screenshot-4.jpg"
+      ],
+      "description":"The Divine is dead. The Void approaches. And the powers latent within you are soon to awaken. The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Divinity: Original Sin 2 Definitive Edition",
+      "released_date": "September 14, 2017",
+      "genres": "RPG, Open world, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Larian Studios",
+      "rating": "95%",
+      "user_language": "English, French, German, Russian, Polish, Spanish - Spain, Spanish - Latin America, Japanese, Simplified Chinese, Traditional Chinese, Italian, Korean, Czech, Portuguese Brazil",
+      "audio_language": "English, Russian (Acts I + II, fan-made)",
+      "image":"https://cdn.mobygames.com/covers/387092-alan-wakes-american-nightmare-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 10 64-bit",
+        "processor" : "Intel Core i5 or equivalent",
+        "ram": "4 GB",
+        "video_card":"DirectX 10 compatible with 512MB RAM",
+        "direX": "11",
+        "hdd_space":"71.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/85/1d/851dfc0c-6b36-4a14-b35a-fe69921dd516.jpg.240p.jpg","http://s01.riotpixels.net/data/f9/92/f9921891-8381-4051-800e-489bff55bee8.jpg.240p.jpg","http://s01.riotpixels.net/data/f9/92/f9921891-8381-4051-800e-489bff55bee8.jpg.240p.jpg","http://s01.riotpixels.net/data/98/ad/98adafc4-ed36-492a-a1ce-af33130fc808.jpg.240p.jpg","http://s01.riotpixels.net/data/98/ad/98adafc4-ed36-492a-a1ce-af33130fc808.jpg.240p.jpg","http://s01.riotpixels.net/data/91/e7/91e7e8a8-603f-4c17-ad52-0e66567d7ae0.jpg.240p.jpg"
+      ],
+      "description":"The Divine is dead. The Void approaches. And the powers latent within you are soon to awaken. The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Alan Wake's American Nightmare",
+      "released_date": "May 22, 2012",
+      "genres": "Action, Shooter, Horror, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Remedy Entertainment",
+      "rating": "69%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Czech, Hungarian, Japanese, Polish, Russian",
+      "audio_language": "English, Russian (Gamesvoice Studio)",
+      "image":"https://cdn.mobygames.com/covers/387092-alan-wakes-american-nightmare-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows XP SP2",
+        "processor" : "Dual Core 2GHz Intel or 2.8GHz AMD",
+        "ram": "2 GB",
+        "video_card":"DirectX 10 compatible with 512MB RAM",
+        "direX": "10",
+        "hdd_space":"3.5 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/e2/b0/e2b0c5a3-cada-4952-9014-518b92e38c72.jpg.240p.jpg","http://s01.riotpixels.net/data/78/6b/786bfd0b-d402-45d7-a739-3408a669dce9.jpg.240p.jpg","http://s01.riotpixels.net/data/0e/f4/0ef40b42-cf4a-4cf0-8fa0-c731dcac564d.jpg.240p.jpg","http://s01.riotpixels.net/data/0e/f4/0ef40b42-cf4a-4cf0-8fa0-c731dcac564d.jpg.240p.jpg","http://s01.riotpixels.net/data/1f/b6/1fb6a4b8-0d2c-44ea-8480-9f6740c10f7c.jpg.240p.jpg"
+      ],
+      "description":"In this brand new standalone experience, Alan Wake fights the herald of darkness, the evil Mr. Scratch! A thrilling new storyline, hordes of creepy enemies, serious firepower and beautiful Arizona locations, combined with a fun and challenging new game mode make this a must for Alan Wake veterans, and the perfect jumping on point for new players!"
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Alan Wake (Collector's Edition)",
+      "released_date": "February 16, 2012",
+      "genres": "Action, Shooter, Horror, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Remedy Entertainment",
+      "rating": "90%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Russian, Spanish - Latin America, Traditional Chinese",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Spanish - Latin America, Russian",
+      "image":"https://cdn.mobygames.com/covers/6523423-alan-wake-collectors-edition-windows-other.jpg",
+      "minimum_requirements":{
+        "os": "Windows XP SP2",
+        "processor" : "Dual Core 2GHz Intel or 2.8GHz AMD",
+        "ram": "2 GB",
+        "video_card":"DirectX 10 compatible with 512MB RAM",
+        "direX": "9.0c",
+        "hdd_space":"13.9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/35/b5/35b558db-b831-47cb-9386-5dee9589f9b3.jpg.240p.jpg","http://s01.riotpixels.net/data/ae/d5/aed5e0da-930d-4ab3-8e9f-f81f3e37e27c.jpg.240p.jpg","http://s01.riotpixels.net/data/02/fb/02fbde2d-de92-4df7-bb79-b174da59e4a2.jpg.240p.jpg","http://s01.riotpixels.net/data/13/40/13403511-6872-4406-b53c-1db1890e9c52.jpg.240p.jpg","http://s01.riotpixels.net/data/fa/e8/fae8a333-dc10-43de-9c7c-334c51058c01.jpg.240p.jpg","http://s01.riotpixels.net/data/69/e0/69e01b4d-699f-4d31-8799-8531b84ae42a.jpg.240p.jpg"
+      ],
+      "description":"When the wife of the best-selling writer Alan Wake disappears on their vacation, his search turns up pages from a thriller he doesn’t even remember writing. A Dark Presence stalks the small town of Bright Falls, pushing Wake to the brink of sanity in his fight to unravel the mystery and save his love."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Alan Wake: Remastered",
+      "released_date": "October 5, 2021",
+      "genres": "Action, Shooter, Horror, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Remedy Entertainment",
+      "rating": "85%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Polish, Russian, Spanish - Latin America, Traditional Chinese, Turkish",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Spanish - Latin America",
+      "image":"https://cdn.mobygames.com/covers/10372730-alan-wake-remastered-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "i5-3340 or equivalent",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 960 or AMD Equivalent. 2GB VRAM.",
+        "direX": "9.0c/10/11/12",
+        "hdd_space":"37.9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/12/28/1228bee7-5562-40f2-9c0b-3b75426e99f1.jpg.240p.jpg","http://s01.riotpixels.net/data/ba/8b/ba8b6287-15b0-4ddb-8144-49725a10d4c0.jpg.240p.jpg","http://s01.riotpixels.net/data/46/96/4696ea45-8bbb-47bf-bd80-b65c44886859.jpg.240p.jpg","http://s01.riotpixels.net/data/77/cd/77cde170-4cf8-4b08-9e0a-4f59f8927c53.jpg.240p.jpg","http://s01.riotpixels.net/data/62/92/629226ba-70fb-43e3-9cef-a6eb4b0557e2.jpg.240p.jpg","http://s01.riotpixels.net/data/8e/2a/8e2a6758-c63b-45cf-946a-17a25c052852.jpg.240p.jpg"
+      ],
+      "description":"In this award-winning cinematic action-thriller, troubled author Alan Wake embarks on a desperate search for his missing wife, Alice. Following her mysterious disappearance from the Pacific Northwest town of Bright Falls, he discovers pages of a horror story he has supposedly written, but he has no memory of."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "Forza Horizon 5: Premium Edition",
       "released_date": "October 19, 2023",
       "genres": "Action, Adventure, Racing, Simulation, Sports",
