@@ -31,6 +31,54 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "COCOON",
+      "released_date": "September 29, 2023",
+      "genres": "Adventure, Puzzle solving, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Geometric Interactive",
+      "rating": "98%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Korean, Turkish, Polish, Dutch, Danish",
+      "Audio Language": "none",
+      "image":"https://cdn.mobygames.com/covers/17682743-cocoon-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i7-2600 / AMD FX-8350", 
+        "ram": "6 GB",
+        "video_card":"NVIDIA GeForce GTX 950, 2 GB or AMD Radeon R9 380, 4 GB",
+        "direX": "10",
+        "hdd_space":"3.2 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/73/f3/73f36974-2270-40a7-a912-83f107875c23.jpg.240p.jpg","http://s01.riotpixels.net/data/e6/de/e6de9290-b38d-4a82-b076-abb8b7c6c4df.jpg.240p.jpg","http://s01.riotpixels.net/data/8e/67/8e67b8f7-37e2-475e-8ecd-b73081fb8c4f.jpg.240p.jpg","http://s01.riotpixels.net/data/83/7c/837c64e6-f4d8-4b18-9ba8-ca3c3cdd3208.jpg.240p.jpg","http://s01.riotpixels.net/data/f4/9f/f49f9a88-d15a-4943-b7b8-1917c6bc7fda.jpg.240p.jpg"
+      ],
+       "description":"From Jeppe Carlsen, the lead gameplay designer of LIMBO and INSIDE — COCOON takes you on an adventure across worlds within worlds. Master world-leaping mechanics to unravel a cosmic mystery."
+    },
+    {
+      "update_date" : "November 28, 2023",
+      "title": "Fate/Samurai Remnant",
+      "released_date": "October 13, 2022",
+      "genres": "Action, RPG",
+      "platforms": "PC",
+      "developer": "KOEI TECMO GAMES CO., LTD.",
+      "rating": "67%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Czech, Japanese, Korean, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese",
+      "Audio Language": "English",
+      "image":"https://cdn.mobygames.com/covers/17677136-fatesamurai-remnant-playstation-4-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows® 10, 64bit / Windows® 11",
+        "processor" : "Intel Core i5-4460 or over", 
+        "ram": "6 GB",
+        "video_card":"GeForce GTX 1060 3GB / AMD Radeon RX 570 4GB or over",
+        "direX": "11",
+        "hdd_space":"25 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/31/04/3104f655-4c37-4898-81d9-3c891d3100ed.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.14.jpg","http://s01.riotpixels.net/data/b0/be/b0beac61-cb64-4586-b8f6-4c53efe233cd.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.13.jpg","http://s01.riotpixels.net/data/18/9c/189cc7f9-1040-4569-9cd0-171fecb8ac62.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.12.jpg","http://s01.riotpixels.net/data/c5/c1/c5c10ca4-dc45-48ac-8171-8f25ada49554.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.11.jpg","http://s01.riotpixels.net/data/0e/49/0e49f807-89cc-49e8-bb1c-bca12854b34c.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.10.jpg","http://s01.riotpixels.net/data/c9/08/c9089b45-560f-406b-b300-4e93ff7a8d91.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.9.jpg","http://s01.riotpixels.net/data/02/91/02916834-d403-4545-aea1-6202f9adfc70.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.8.jpg","http://s01.riotpixels.net/data/9f/1b/9f1be65b-0984-40b2-af0e-b49cf6cffc4b.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.7.jpg","http://s01.riotpixels.net/data/be/aa/beaa2fb5-d418-42aa-9add-336d582d1c5c.jpg/screenshot.fate-samurai-remnant.1920x1080.2023-09-29.6.jpg","http://s01.riotpixels.net/data/ba/e8/bae84e87-5a27-4c1b-b57b-d775a33d55ce.jpg.720p.jpg/screenshot.fate-samurai-remnant.1280x720.2023-09-29.5.jpg"
+      ],
+       "description":"The battle over the Waxing Moon which could grant any and all wishes — the Waxing Moon Ritual. The seven individuals seeking their wish, or Masters, are the bearers of the Ritual. The seven Heroic Spirits, or Servants, are summoned to this world by their Masters. The curtain rises on the battle between the seven Masters with their seven Servants."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "The Last Oricru: Final Cut",
       "released_date": "October 13, 2022",
       "genres": "Action, RPG, Third-person, 3D",
