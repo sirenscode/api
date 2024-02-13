@@ -31,6 +31,30 @@
   "games":[
     {
       "update_date" : "November 28, 2023",
+      "title": "High On Life",
+      "released_date": "12 Oct, 2023",
+      "genres": "Action, Adventure",
+      "platforms": "PC",
+      "developer": "Squanch Games, Inc.",
+      "rating": "89%",
+      "user_language": "English, Spanish",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+      "image":"https://cdn.mobygames.com/covers/11192997-high-on-life-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : " Intel(R) Core(TM) i5-4430K CPU @ 3.00GHz (4 CPUs)",
+        "ram": "4 GB",
+        "video_card":"NVIDIA GeForce GTX 1060 (3GB)/AMD Radeon R9 290x (4GB)",
+        "direX": "11",
+        "hdd_space":"59 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b3/71/b371f7ed-4fa1-4634-b396-8d1bea28f1a2.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.58.jpg","http://s01.riotpixels.net/data/ae/ba/aebafdec-1a1a-409e-877d-882d5916be3a.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.57.jpg","http://s01.riotpixels.net/data/1f/2c/1f2ccec6-f393-44d4-b953-99b812c88d95.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.56.jpg","http://s01.riotpixels.net/data/ca/e9/cae94fa3-4ab6-46af-a5b9-b7755aab4618.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.55.jpg","http://s01.riotpixels.net/data/f7/aa/f7aa1eae-b73a-4b88-a0db-be96c1c21728.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.54.jpg","http://s01.riotpixels.net/data/4a/e4/4ae4c606-1b5a-4fbb-9d2d-7b07228fadc0.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.53.jpg","http://s01.riotpixels.net/data/ec/31/ec311beb-0d03-41ba-b13a-e42b97b8fe0e.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.52.jpg","http://s01.riotpixels.net/data/fd/74/fd74b6c8-30ee-4476-9f7d-c845c6d36679.jpg.720p.jpg/screenshot.high-on-life.1280x720.2022-12-20.51.jpg"
+      ],
+      "description":"If you don’t know what you’re getting into, here’s the deal: High On Life is an action-packed comedy-adventure FPS filled with unhinged talking guns, an evil alien drug cartel selling humans on the black market, and an impressive variety of gorgeous and seedy spacefaring locales to explore. You wanna buy goop from a back-alley salesman? You wanna tell some construction workers that their dad will never love them? You wanna rescue a talking knife from a bunch of a gang of ant clones? You can do ALL of those things in High On Life, trust me. And a lot more. I didn’t even mention a lot of the other stuff you can do."
+    },
+    {
+      "update_date" : "November 28, 2023",
       "title": "Star Trek: Infinite",
       "released_date": "12 Oct, 2023",
       "genres": "Adventure, Simulation, Strategy",
@@ -206,7 +230,7 @@
       "rating": "95%",
       "user_language": "English, French, German, Russian, Polish, Spanish - Spain, Spanish - Latin America, Japanese, Simplified Chinese, Traditional Chinese, Italian, Korean, Czech, Portuguese Brazil",
       "audio_language": "English, Russian (Acts I + II, fan-made)",
-      "image":"https://cdn.mobygames.com/covers/387092-alan-wakes-american-nightmare-windows-front-cover.jpg",
+      "image":"https://cdn.mobygames.com/covers/11178798-divinity-original-sin-ii-nintendo-switch-front-cover.jpg",
       "minimum_requirements":{
         "os": "Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 10 64-bit",
         "processor" : "Intel Core i5 or equivalent",
@@ -326,7 +350,7 @@
       "rating": "85%",
       "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Indonesian",
       "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Indonesian",
-      "image":"https://static.wikia.nocookie.net/hotwheels/images/3/34/Unleashed_2_cover.jpeg/revision/latest/scale-to-width-down/1000?cb=20231019060642",
+      "image":"https://www.gtplanet.net/wp-content/uploads/2023/10/image-3-35-800x450.jpg",
       "minimum_requirements":{
         "os": "Windows 7 x64 or later",
         "processor" : "Intel Core i5-4590 / AMD FX-4350 or equivalent",
